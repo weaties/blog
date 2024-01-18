@@ -21,3 +21,5 @@ It was a game-changer when I found the GitHub Publisher for Obsidian, which ease
 Jekyll templates provide flexible options for website design. They're easy to use and make content presentation a breeze.
 
 In conclusion, this blog gives me the control to personalize my content and the convenience to manage it efficiently. Here's to more streamlined communication and documentation!
+
+Hi Phil!
