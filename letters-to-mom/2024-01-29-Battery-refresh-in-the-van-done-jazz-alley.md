@@ -9,7 +9,7 @@ Good Morning! Monday, Jan 29th 2024
 
 Hey Mom! How are things?  
 
-Things are good here - just a quick note to say hi! This weekend, I finished a big project on the van. The entire “house battery” system is complete now. During our road trip between Christmas and New Year's, we realized that the batteries on the van were not up to the task, as they could not keep the heater running all night. So, the second morning of the trip, I got on the internet and bought the new battery that I had been looking at and chatting with Eric about. And that started the journey. When we got home from the trip, the new battery was at the house. I have written about this before, but the summary was that I spent a weekend removing the old batteries from under the rig and installing the new battery. 
+Things are good here. This is just a quick note to say hi! This weekend, I finished a big project on the van. The entire “house battery” system is complete now. During our road trip between Christmas and New Year's, we realized that the batteries on the van were not up to the task, as they could not keep the heater running all night. So, the second morning of the trip, I got on the internet and bought the new battery I had been looking at and chatting about with Eric. And that started the journey. The new battery was at the house when we got home from the trip. I have written about this before, but the summary was that I spent a weekend removing the old batteries from under the rig and installing the new battery. 
 
   
 
@@ -17,7 +17,7 @@ Well, then it turns out that we needed a new charger for when the rig was runnin
 
   
 
-So all the parts had arrived, and it was warm and rainy at the pass, so we decided to stay down the hill this weekend. So, only on Saturday I got in the right frame of mind and spent the day figuring out where I wanted everything mounted and how I wanted to wire it all together. And I got it all done, and everything all buttoned back up. So now we are in a great place with all of that. It feels great to have that all in a happy place with sound equipment and good wiring.
+So all the parts had arrived, and it was warm and rainy at the pass, so we decided to stay down the hill this weekend. So, only on Saturday I got in the right frame of mind and spent the day figuring out where I wanted everything mounted and how I wanted to wire it all together. And I got it all done, and everything all buttoned back up. So now we are in a great place with all of that. Having that all in a happy place with sound equipment and good wiring feels great.
 
   
 
@@ -25,11 +25,9 @@ After that, Catherine and I spent the evening cleaning the house and finding som
 
   
 
-Yesterday, I headed down to Kyle's house to work on the race car, and then in the evening, Catherine and I went to Jazz Alley with Curt and Amy. We saw Lee Ritenour and Dave Grusin Quartet, and they were great.
+Sunday, I headed down to Kyle's house to work on the race car, and then in the evening, Catherine and I went to Jazz Alley with Curt and Amy. We saw Lee Ritenour and Dave Grusin Quartet, and they were great.
 
   
-
-Today - I am off to the office, and we are having soup night tonight.
 
   ![Pasted image 20240129071059](../attachments/Pasted%20image%2020240129071059.jpg)
 Alex’s head shot for his new job.   Apparently they do his for everyone.  He also got a hair cut :) 
