@@ -48,6 +48,20 @@ In order to create an index page that has a list of all of the letters that I ha
 
 and then to make things work correctly I told the github publisher to convert the dataview results to markdown when it publishes it. ![CleanShot 2024-02-03 at 16.33.48@2x](./attachments/CleanShot%202024-02-03%20at%2016.33.48@2x.png)
 
+## Location Management
+As a part of this, i would also like to be able to use the [obsidian mapview plugin](https://github.com/esm7/obsidian-map-view) to be able to show where all of these notes were created, and to be able to see them on the map.   To do that I add the `location:` property to the [obsidian front matter](https://www.wundertech.net/yaml-front-matter-in-obsidian/)  and I use [Map View GeoHelper](https://esm7.github.io/obsidian-geo-helper) in order to get my current location, and insert it into that front matter.
+
+## Sharing the tracks of our travels
+we use [giagps](https://www.gaiagps.com/) to keep track of our travels.  This is an awesome piece of software that runs as an app on our iphone, it's a website, the whole nine yards.  There are a couple of cool things that it does for us.
+
+1. It can add all of the photos you take during your trip to the track of the trip.
+2. You can share your tracks from the website, with all of the details.
+3. you can embed a map, using iframes, of your track into a markdown file, and have that published.
+
+
+<iframe src="https://www.gaiagps.com/public/h0uSbhAYJn9hJ5tS3krCuthd/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:840px; width:100%; height: 420px;" seamless />
+
+> this is an example of one of the trips Catherine and I took in the summer of 2023. 
 
 
 [todolist](./todolist.md)
