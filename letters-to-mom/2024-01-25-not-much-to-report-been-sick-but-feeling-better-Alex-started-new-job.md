@@ -1,6 +1,9 @@
 ---
 share: true
 title: 24-01-25 - not much to report. Been sick but better now
+location:
+  - 47.6938391547164
+  - -122.3848207977342
 ---
 
 

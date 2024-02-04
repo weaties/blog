@@ -2,7 +2,12 @@
 share: true
 tags:
   - letter-to-mom
+location:
+  - 47.40322900968636
+  - -121.41105757376775
 ---
+
+
 
 Good afternoon!
 

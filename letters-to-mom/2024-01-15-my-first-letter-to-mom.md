@@ -3,6 +3,9 @@ share: true
 title: 24-01-15 first letter to mom
 tags:
   - letter-to-mom
+location:
+  - 47.6938391547164
+  - -122.3848207977342
 ---
 
 
