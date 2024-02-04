@@ -63,5 +63,10 @@ we use [giagps](https://www.gaiagps.com/) to keep track of our travels.  This is
 
 > this is an example of one of the trips Catherine and I took in the summer of 2023. 
 
+so there are a couple of problems here.
+
+1. nothing is showing up on the published blog _after_ the iframe.   that's gotta get solved
+2. the iframe is not included when I mail the contents of the page
+
 
 [todolist](./todolist.md)
