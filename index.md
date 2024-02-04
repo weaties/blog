@@ -12,7 +12,7 @@ Hello world!   This is Dan, and I am creating my new blog using obsidian and git
 
 
 [about-how-this-blog-is-created](./about-how-this-blog-is-created.md)
-[todolist](todolist.md)
+[todolist](./todolist.md)
 
 
 
