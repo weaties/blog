@@ -4,6 +4,9 @@ title: 2024-02-05-Mon Visited with Krista Todd Joe and Jada
 date: 2024-02-05-Mon
 tags:
   - letter-to-mom
+location:
+  - 47.69385415470343
+  - -122.38481634742932
 ---
 
 
