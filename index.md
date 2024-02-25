@@ -4,6 +4,7 @@ share: true
 
 Hello world!   This is Dan, and I am creating my new blog using obsidian and github pages.   This blog is intended to be a source for me to share my adventures with anyone that cares to read them.   To find out more about how I manage and publish this blog check out [about-how-this-blog-is-created](./about-how-this-blog-is-created.md)
 
+- [2024-02-25-sun-sunday-visit](./letters-to-mom/2024-02-25-sun-sunday-visit.md)
 - [2024-02-18-sun-sunday-visit](./letters-to-mom/2024-02-18-sun-sunday-visit.md)
 - [2024-02-12-mon-snowbirds-and-superbowls](./letters-to-mom/2024-02-12-mon-snowbirds-and-superbowls.md)
 - [2024-02-05-mon-visited-with-krista-todd-joe-and-jada](./letters-to-mom/2024-02-05-mon-visited-with-krista-todd-joe-and-jada.md)
