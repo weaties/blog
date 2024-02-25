@@ -4,6 +4,9 @@ title: 2024-02-18-Sunday visit
 date: 2024-02-18-Sun
 tags:
   - letter-to-mom
+location:
+  - 47.693860328847336
+  - -122.38489912594241
 ---
 
 
