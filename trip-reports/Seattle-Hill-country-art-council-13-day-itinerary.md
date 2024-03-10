@@ -4,6 +4,7 @@ tags:
 location:
   - 47.40322900968636
   - -121.41105757376775
+title: 13 day itinerary for Seattle to Hill country art council
 ---
 
 
