@@ -7,8 +7,14 @@ location:
 ---
 
 
+As of March 10th, 2024 - this is our rough plan for our road trip to [Ingram, Texas community page for the total solar eclipse of April 8, 2024 | eclipse2024.org](https://eclipse2024.org/communities/city/38964.html)  
 
-Certainly! Here's a detailed itinerary from Seattle to Ingram, Texas, incorporating your requested stops, with departure times, estimated arrival times, daily mileage, and driving hours.
+I used this [ChatGPT-prompt-for-road-trip-planning-assistant](./ChatGPT-prompt-for-road-trip-planning-assistant.md) and asked it to help me with the route.  It was really good at being able to adjust things when I asked it to.  The maps sections I went through and added by hand with screen shots from google maps.
+
+We have not yet planned the return trip.  - that will come as we head down the road.  
+
+
+
 ![CleanShot 2024-03-10 at 14.17.42@2x.png](../attachments/CleanShot%202024-03-10%20at%2014.17.42@2x.png)
 ### Day 1: Seattle, WA to Spokane, WA
 - **Date:** Saturday, March 23
