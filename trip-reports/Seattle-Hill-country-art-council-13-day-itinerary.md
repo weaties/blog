@@ -7,7 +7,8 @@ location:
 ---
 
 
-As of March 10th, 2024 - this is our rough plan for our road trip to [Ingram, Texas community page for the total solar eclipse of April 8, 2024 | eclipse2024.org](https://eclipse2024.org/communities/city/38964.html)  
+
+As of March 10th, 2024 - this is our rough plan for our road trip to [Ingram, Texas community page for the total solar eclipse of April 8](https://eclipse2024.org/communities/city/38964.html)  
 
 I used this [ChatGPT-prompt-for-road-trip-planning-assistant](./ChatGPT-prompt-for-road-trip-planning-assistant.md) and asked it to help me with the route.  It was really good at being able to adjust things when I asked it to.  The maps sections I went through and added by hand with screen shots from google maps.
 
