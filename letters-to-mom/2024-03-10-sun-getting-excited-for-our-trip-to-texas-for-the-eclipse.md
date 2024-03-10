@@ -33,6 +33,9 @@ Ok - gonna wrap this up and send this off!
 Love ya!
 Dan W
 
+PS - for a detailed look at what our route currently looks like check out [Seattle - Hill country art council 13 day itinerary](../trip-reports/Seattle%20-%20Hill%20country%20art%20council%2013%20day%20itinerary.md)
+
+
 Not a big week for pictures.
 
 ![C84E58C6-5BC5-4C65-B005-D21CB0E5B5C0_1_105_c](../attachments/C84E58C6-5BC5-4C65-B005-D21CB0E5B5C0_1_105_c.jpeg)
