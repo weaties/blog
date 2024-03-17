@@ -16,7 +16,9 @@ Hello world!   This is Dan, and I am creating my new blog using obsidian and git
 - [2024-01-15-my-first-letter-to-mom](./letters-to-mom/2024-01-15-my-first-letter-to-mom.md)
 
 
-[todolist](./todolist.md)
+- [todolist](./todolist.md) - stuff I want to do on the blog - we will see how well I keep it up
+- [music-found](./music-found.md) - music that we find on the journey
+
 
 
 
