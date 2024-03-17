@@ -25,6 +25,8 @@ Back at the cabin, we had a lovely meal of corned beef, potatoes and cabbage, an
 
 Tomorrow we will likely head back out for some more time on the mountain, before heading home.
 
+I created a [music found on 3/16](../music-found.md#cd039e) entry for the music that I discovered today.
+
 This week will be the week of final planning and packing.
 
 ![Track (3_16_24, 10_56_42AM)](../attachments/Track%20(3_16_24,%2010_56_42AM).jpg)
