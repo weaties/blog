@@ -42,3 +42,20 @@ Not a big week for pictures.
 Here is a panorama of our backyard.   We have been getting on the yard maintenance.  Everything is pruned and weeded, and the mulch is laid down.  The garden is ready to be planted, and then later, we will plant our planter boxes for the summer.
 
 
+
+
+
+## Letters to Mom
+These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass](./2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass.md)
+- [2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse](2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse.md)
+- [2024-03-03-sun-sunday-visit---expedia-layoffs---i-am-ok](./2024-03-03-sun-sunday-visit---expedia-layoffs---i-am-ok.md)
+- [2024-02-25-sun-sunday-visit](./2024-02-25-sun-sunday-visit.md)
+- [2024-02-18-sun-sunday-visit](./2024-02-18-sun-sunday-visit.md)
+- [2024-02-12-mon-snowbirds-and-superbowls](./2024-02-12-mon-snowbirds-and-superbowls.md)
+- [2024-02-05-mon-visited-with-krista-todd-joe-and-jada](./2024-02-05-mon-visited-with-krista-todd-joe-and-jada.md)
+- [2024-01-29-Battery-refresh-in-the-van-done-jazz-alley](./2024-01-29-Battery-refresh-in-the-van-done-jazz-alley.md)
+- [2024-01-25-not-much-to-report-been-sick-but-feeling-better-Alex-started-new-job](./2024-01-25-not-much-to-report-been-sick-but-feeling-better-Alex-started-new-job.md)
+- [2024-01-15-sking-over-martin-Luther-king-holiday-weekend](./2024-01-15-sking-over-martin-Luther-king-holiday-weekend.md)
+- [2024-01-15-my-first-letter-to-mom](./2024-01-15-my-first-letter-to-mom.md)
+
