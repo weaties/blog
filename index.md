@@ -2,12 +2,13 @@
 share: true
 ---
 
-Hello world!   This is Dan, and I am creating my new blog using obsidian and github pages.   This blog is intended to be a source for me to share my adventures with anyone that cares to read them.   To find out more about how I manage and publish this blog check out [about-how-this-blog-is-created](./about-how-this-blog-is-created.md)
+Hello world!   This is Dan, and I am creating my new blog using Obsidian and GitHub pages.   This blog is intended to be a source for me to share my adventures with anyone who cares to read them.   To find out more about how I manage and publish this blog check out [about-how-this-blog-is-created](./about-how-this-blog-is-created.md)
 
 ## Trip Reports
 
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
+- [2024-03-22-fri-day0-the-night-before-we-leave](./trip-reports/2024-03-22-fri-day0-the-night-before-we-leave.md)
 - [2024-03-16-sat-d-7-starlink-and-whitepass](./trip-reports/2024-03-16-sat-d-7-starlink-and-whitepass.md)
 - [ChatGPT-prompt-for-road-trip-planning-assistant](./trip-reports/ChatGPT-prompt-for-road-trip-planning-assistant.md)
 - [Seattle-Hill-country-art-council-13-day-itinerary](./trip-reports/Seattle-Hill-country-art-council-13-day-itinerary.md)
@@ -29,8 +30,11 @@ These are the letters that I send to my mom, Aunts, and others on a regular basi
 - [2024-01-15-my-first-letter-to-mom](./letters-to-mom/2024-01-15-my-first-letter-to-mom.md)
 
 
+## Random Lists
+
 - [todolist](./todolist.md) - stuff I want to do on the blog - we will see how well I keep it up
 - [music-found](./music-found.md) - music that we find on the journey
+- [Shows-seen](./Shows-seen.md) - list of shows that we see on the trip
 
 
 
