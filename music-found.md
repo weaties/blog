@@ -8,6 +8,11 @@ tags: []
 This Blog Entry will be used to keep track of the music that we discover during the trip.   I hope to be able to keep track of who the artists is, and the context of when we found 
 
 
+## 2024-03-32
+
+First leg of the trip to texas for the [2024 eclipse](2024%20eclipse.md). and we are east of Ellensberg and listening to
+- [Jelly Roll](https://en.wikipedia.org/wiki/Jelly_Roll_(singer))  - I've hear _of_ Jelly Roll in the past, but have not actually listened to his music or paid attention.  I am enjoying it quite a bit.
+
 ## 2024-03-16
 
 ^cd039e
