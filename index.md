@@ -8,6 +8,8 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
+- [index](./trip-reports/index.md)
+- [2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom](./trip-reports/2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md)
 - [2024-03-22-fri-day0-the-night-before-we-leave](./trip-reports/2024-03-22-fri-day0-the-night-before-we-leave.md)
 - [2024-03-16-sat-d-7-starlink-and-whitepass](./trip-reports/2024-03-16-sat-d-7-starlink-and-whitepass.md)
 - [ChatGPT-prompt-for-road-trip-planning-assistant](./trip-reports/ChatGPT-prompt-for-road-trip-planning-assistant.md)
@@ -17,6 +19,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-03-24-sun-visit---starting-on-the-road-trip](./letters-to-mom/2024-03-24-sun-visit---starting-on-the-road-trip.md)
 - [2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass](./letters-to-mom/2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass.md)
 - [2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse](./letters-to-mom/2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse.md)
 - [2024-03-03-sun-sunday-visit---expedia-layoffs---i-am-ok](./letters-to-mom/2024-03-03-sun-sunday-visit---expedia-layoffs---i-am-ok.md)
