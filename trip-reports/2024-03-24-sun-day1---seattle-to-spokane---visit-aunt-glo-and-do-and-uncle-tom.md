@@ -44,3 +44,6 @@ Mick, Julie, Kim. Gloria, Catherine, Liz, me, Liv outside of Azteca
 ![A37288F5-91E9-40C3-BD3E-AD36AFB295DC_1_105_c](../attachments/A37288F5-91E9-40C3-BD3E-AD36AFB295DC_1_105_c.jpeg)
 
 Me and my uncle Tom.  Alas, the picture of me and Aunt Do didn't come out well enough to share.
+
+<iframe src="https://www.gaiagps.com/public/NXYph8XmPBdl4wLmWE5wCj5C/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
+
