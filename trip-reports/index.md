@@ -4,6 +4,7 @@ share: true
 
 This is an index of all of the trip reports that I have created.  that is about it.
 
+- [2024-03-25-mon-day-3-boise-to-city-of-rocks-national-preserve](./2024-03-25-mon-day-3-boise-to-city-of-rocks-national-preserve.md)
 - [2024-03-25-mon-day2-to-boise-to-visit-patrick](./2024-03-25-mon-day2-to-boise-to-visit-patrick.md)
 - [index](index.md)
 - [2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom](./2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md)
