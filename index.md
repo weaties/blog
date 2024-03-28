@@ -8,6 +8,7 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
+- [2024-03-27-wed-day4-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./trip-reports/2024-03-27-wed-day4-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
 - [2024-03-25-mon-day-3-boise-to-city-of-rocks-national-preserve](./trip-reports/2024-03-25-mon-day-3-boise-to-city-of-rocks-national-preserve.md)
 - [2024-03-25-mon-day2-to-boise-to-visit-patrick](./trip-reports/2024-03-25-mon-day2-to-boise-to-visit-patrick.md)
 - [index](./trip-reports/index.md)
