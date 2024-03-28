@@ -9,9 +9,9 @@ location:
   - -112.38523806106718
 ---
 
-Day 4 of our road trip saw us traveling from the [City of Rocks](!g) National Reserve and then over to Garland, Utah to see my Uncle Dan and Aunt Linda weatbrook - where we had a very pleasant visit.  The weather on the way there was very gray, stormy, and rainy.  The drive was nice, though, and it was cool to be driving through the big, fluffy snowflakes!
+Day 4 of our road trip saw us traveling from the [City of Rocks](https://www.nps.gov/ciro/index.htm) National Reserve and then over to Garland, Utah to see my Uncle Dan and Aunt Linda weatbrook - where we had a very pleasant visit.  The weather on the way there was very gray, stormy, and rainy.  The drive was nice, though, and it was cool to be driving through the big, fluffy snowflakes!
 
-From Uncle Dan's place, we headed down to Tooele to visit with my cousin Spencer and his family.   They have recently moved into their new home, and are enjoying it, and have quite a bit of space there.   Spencer's son Spencer is a junior in highschool, working for the family's General contracting business generating leads, and is also taking up welding.   We had a pleasant visit with them before heading out for a place to spend the night tonight.  
+From Uncle Dan's place, we headed down to Tooele to visit with my cousin Spencer and his family.   They have recently moved into their new home, and are enjoying it, and have quite a bit of space there.   Spencer's son Spencer is a junior in high school, working for the family's General contracting business, generating leads, and is also taking up welding.   We had a pleasant visit with them before heading out for a place to spend the night tonight.  
 
 
 We did some investigations and settled on the Vernon Reservoir campground.    The road to get out here was super muddy, and now the rig is covered in mud.  Today, one of the chores will be to find a place to wash it on the way to southern Utah.
