@@ -33,7 +33,7 @@ Ok - gonna wrap this up and send this off!
 Love ya!
 Dan W
 
-PS - for a detailed look at what our route currently looks like check out [Seattle-Hill-country-art-council-13-day-itinerary](../trip-reports/Seattle-Hill-country-art-council-13-day-itinerary.md)
+PS - for a detailed look at what our route currently looks like check out [2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary](../trip-reports/2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary.md)
 
 
 Not a big week for pictures.

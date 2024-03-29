@@ -21,7 +21,7 @@ After dinner, John Helde stopped by the house to return the laptop I loaned him 
 
 [Friday night](../trip-reports/2024-03-22-fri-day0-the-night-before-we-leave.md), we had Kai over for dinner and went to Shoreline Community College to see the Woodland Park Players' production of My Fair Lady.   When we got home from that, I finished loading up the van and putting things away so that in the morning, we could bounce up and ROLL!
 
-[Yesterday](../trip-reports/2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md), we kicked things off with the first leg of the trip to see Aunt Gloria, Aunt Do, and Uncle Tom, and we had wonderful visits with them.  
+[Yesterday](../trip-reports/2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md), we kicked things off with the first leg of the trip to see Aunt Gloria, Aunt Do, and Uncle Tom, and we had wonderful visits with them.  
 
 Today, we are heading towards Boise, Idaho, where we will hang out with our friend Patrick Atkinson, who moved there a couple of years ago.
 

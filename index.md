@@ -8,15 +8,16 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
-- [2024-03-27-wed-day4-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./trip-reports/2024-03-27-wed-day4-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
-- [2024-03-25-mon-day-3-boise-to-city-of-rocks-national-preserve](./trip-reports/2024-03-25-mon-day-3-boise-to-city-of-rocks-national-preserve.md)
-- [2024-03-25-mon-day2-to-boise-to-visit-patrick](./trip-reports/2024-03-25-mon-day2-to-boise-to-visit-patrick.md)
+- [2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./trip-reports/2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
+- [2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./trip-reports/2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
+- [2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve](./trip-reports/2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve.md)
+- [2024-03-24-day2-sun-to-boise-to-visit-patrick](./trip-reports/2024-03-24-day2-sun-to-boise-to-visit-patrick.md)
 - [index](./trip-reports/index.md)
-- [2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom](./trip-reports/2024-03-24-sun-day1---seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md)
+- [2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom](./trip-reports/2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md)
 - [2024-03-22-fri-day0-the-night-before-we-leave](./trip-reports/2024-03-22-fri-day0-the-night-before-we-leave.md)
 - [2024-03-16-sat-d-7-starlink-and-whitepass](./trip-reports/2024-03-16-sat-d-7-starlink-and-whitepass.md)
-- [ChatGPT-prompt-for-road-trip-planning-assistant](./trip-reports/ChatGPT-prompt-for-road-trip-planning-assistant.md)
-- [Seattle-Hill-country-art-council-13-day-itinerary](./trip-reports/Seattle-Hill-country-art-council-13-day-itinerary.md)
+- [2024-03-01-ChatGPT-prompt-for-road-trip-planning-assistant](./trip-reports/2024-03-01-ChatGPT-prompt-for-road-trip-planning-assistant.md)
+- [2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary](./trip-reports/2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary.md)
 
 
 
