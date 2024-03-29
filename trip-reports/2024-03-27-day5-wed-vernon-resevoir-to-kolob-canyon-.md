@@ -4,6 +4,9 @@ title: 2024-03-27-Wed Day 5 - Vernon resevoir to Kolob canyon
 date: 2024-03-27
 tags:
   - Trip-report
+location:
+  - 37.21996
+  - -113.16198
 ---
 
 
@@ -40,7 +43,8 @@ This is what the roads looked like in the first set of BLM land we looked for ca
 But we finally found a spot, and it was nice and quite.
 ![CleanShot 2024-03-28 at 20.50.23@2x](../attachments/CleanShot%202024-03-28%20at%2020.50.23@2x.png)
 
-https://www.gaiagps.com/public/oo9Z3Oslpv9BBOmcPgQ7VOau/ 
+[our route today on gaiGPS](https://www.gaiagps.com/public/oo9Z3Oslpv9BBOmcPgQ7VOau/)
+
 
 
 <iframe src="https://www.gaiagps.com/public/oo9Z3Oslpv9BBOmcPgQ7VOau/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
