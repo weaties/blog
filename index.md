@@ -9,6 +9,7 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
 - [index](./trip-reports/index.md)
+- [2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay](./trip-reports/2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay.md)
 - [2024-03-28-day6-thur-zion-canyon-to-marble-canyon](./trip-reports/2024-03-28-day6-thur-zion-canyon-to-marble-canyon.md)
 - [2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./trip-reports/2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
 - [2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./trip-reports/2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
