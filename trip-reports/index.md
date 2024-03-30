@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay](./2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay.md)
 - [2024-03-28-day6-thur-zion-canyon-to-marble-canyon](./2024-03-28-day6-thur-zion-canyon-to-marble-canyon.md)
 - [2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
 - [2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
