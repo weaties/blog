@@ -28,7 +28,7 @@ Today we are heading down to Sun City West to see Mom, Sue, Sophie and Peter.
 
 
 ![FC76865A-92F7-47A4-BEC1-5296D8A675DF_1_102_o](../attachments/FC76865A-92F7-47A4-BEC1-5296D8A675DF_1_102_o.jpeg)
-The can in the sunrise
+The van in the sunrise
 
 ![D7C442B9-0C66-4174-86BD-09619FF3AC11_1_102_o](../attachments/D7C442B9-0C66-4174-86BD-09619FF3AC11_1_102_o.jpeg)
 What a spectacular view of the clouds lit up by the sun.
