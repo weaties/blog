@@ -9,6 +9,8 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
 - [index](./trip-reports/index.md)
+- [2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette](./trip-reports/2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette.md)
+- [2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome](./trip-reports/2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome.md)
 - [2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay](./trip-reports/2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay.md)
 - [2024-03-28-day6-thur-zion-canyon-to-marble-canyon](./trip-reports/2024-03-28-day6-thur-zion-canyon-to-marble-canyon.md)
 - [2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./trip-reports/2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
@@ -25,6 +27,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-04-01-mon-eclipse---week-one---getting-to-mom's](./letters-to-mom/2024-04-01-mon-eclipse---week-one---getting-to-mom's.md)
 - [2024-03-24-sun-visit---starting-on-the-road-trip](./letters-to-mom/2024-03-24-sun-visit---starting-on-the-road-trip.md)
 - [2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass](./letters-to-mom/2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass.md)
 - [2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse](./letters-to-mom/2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse.md)
