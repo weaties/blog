@@ -47,6 +47,7 @@ Here is a panorama of our backyard.   We have been getting on the yard maintenan
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-04-01-mon-eclipse---week-one---getting-to-mom's](./2024-04-01-mon-eclipse---week-one---getting-to-mom's.md)
 - [2024-03-24-sun-visit---starting-on-the-road-trip](./2024-03-24-sun-visit---starting-on-the-road-trip.md)
 - [2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass](./2024-03-17-sun-sunday-visit---6-days-to-the-trip---skiing-in-whitepass.md)
 - [2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse](2024-03-10-sun-getting-excited-for-our-trip-to-texas-for-the-eclipse.md)
