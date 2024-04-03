@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-02-day11-guadelupe-mountains-national-park](./2024-04-02-day11-guadelupe-mountains-national-park.md)
 - [2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park](./2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)
 - [2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette](./2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette.md)
 - [2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome](./2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome.md)
