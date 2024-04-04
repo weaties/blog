@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-04-day-12-carlsbad-caverns-to-big-bend](./2024-04-04-day-12-carlsbad-caverns-to-big-bend.md)
 - [2024-04-02-day11-guadelupe-mountains-national-park](./2024-04-02-day11-guadelupe-mountains-national-park.md)
 - [2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park](./2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)
 - [2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette](./2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette.md)
