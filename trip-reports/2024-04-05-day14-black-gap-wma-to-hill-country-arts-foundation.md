@@ -38,4 +38,10 @@ This is a piece of kinetic art that moves with the wind.
 
 [Day 14 black gap wma to hill country art council](https://www.gaiagps.com/public/qc67rz1C3Gb2NjSWpsLL0Ba7/)
 
+
+[<< Previous - 2024-04-04-day13---big-bend-national-park](./2024-04-04-day13---big-bend-national-park.md) 
+[Next >>  - 2024-04-06-day15-day-trip-to-joyce's-place](./2024-04-06-day15-day-trip-to-joyce's-place.md)
+
+
+
 <iframe src="https://www.gaiagps.com/public/qc67rz1C3Gb2NjSWpsLL0Ba7/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
