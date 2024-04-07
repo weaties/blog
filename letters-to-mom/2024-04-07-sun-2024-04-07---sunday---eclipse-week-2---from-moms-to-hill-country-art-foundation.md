@@ -1,0 +1,39 @@
+---
+share: true
+title: 2024-04-07-Sun 2024-04-07 - Sunday - eclipse week 2 - From moms to Hill Country Art Foundation
+date: 2024-04-07-Sun
+tags:
+  - letter-to-mom
+location:
+  - 30.07198104307545
+  - -99.2467376018001
+---
+
+Two weeks into our eclipse road trip, we are finding ourselves settled into the [Hill country arts foundation](http://www.hcaf.com/)property in a wonderful 
+
+
+![6FE70CB3-11DE-401C-B50F-0FC498792DEE_1_105_c](../attachments/6FE70CB3-11DE-401C-B50F-0FC498792DEE_1_105_c.jpeg)
+
+![E01D0D1E-9992-4A24-AF18-3C89040C6724_1_105_c](../attachments/E01D0D1E-9992-4A24-AF18-3C89040C6724_1_105_c.jpeg)
+
+![07EC505F-5D63-4BCC-B9EB-556C754AC96C_1_105_c](../attachments/07EC505F-5D63-4BCC-B9EB-556C754AC96C_1_105_c.jpeg)
+
+![349D35A4-32BB-4DF3-B7EF-DF866F76381B_1_105_c](../attachments/349D35A4-32BB-4DF3-B7EF-DF866F76381B_1_105_c.jpeg)
+
+![3EEC0E94-582D-41DF-AB5A-E4343AD1898C_1_105_c](../attachments/3EEC0E94-582D-41DF-AB5A-E4343AD1898C_1_105_c.jpeg)
+
+![56517AAC-D977-41CB-885E-076495266DCF_1_105_c](../attachments/56517AAC-D977-41CB-885E-076495266DCF_1_105_c.jpeg)
+
+![941C5895-1779-442B-907D-51D8B3FF5C66_1_105_c](../attachments/941C5895-1779-442B-907D-51D8B3FF5C66_1_105_c.jpeg)
+
+![5F096EFA-1CF2-43F5-BF51-4291E739FC5E_1_105_c](../attachments/5F096EFA-1CF2-43F5-BF51-4291E739FC5E_1_105_c.jpeg)
+
+![9A42F5B0-9265-4871-B12B-BDA410B22365_1_102_a](../attachments/9A42F5B0-9265-4871-B12B-BDA410B22365_1_102_a.jpeg)
+
+![3C09ECD9-FF9D-483F-B204-7A084DD8BDB6_1_105_c](../attachments/3C09ECD9-FF9D-483F-B204-7A084DD8BDB6_1_105_c.jpeg)
+
+![F91E4D69-C6BA-4F4C-BAF0-F1A84194FD77_1_105_c](../attachments/F91E4D69-C6BA-4F4C-BAF0-F1A84194FD77_1_105_c.jpeg)
+
+	![IMG_8137.jpeg](attachments/IMG_8137.jpeg)
+
+![IMG_8147](../attachments/IMG_8147.jpeg)
