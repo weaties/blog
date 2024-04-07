@@ -33,30 +33,55 @@ Today, we are thinking of heading to Frederiksberg.  And Scott and Martha arrive
 
 
 ![AABDE263-D5D3-4174-A59F-833EA092BBEF_1_102_o](../attachments/AABDE263-D5D3-4174-A59F-833EA092BBEF_1_102_o.jpeg)
+
 The Caliche road off of the county road on the way to Joyce and Hunters place.
+
 ![E53EA3FB-4FA0-484B-AB2A-546ED39ACFC1_1_102_o](../attachments/E53EA3FB-4FA0-484B-AB2A-546ED39ACFC1_1_102_o.jpeg)
+
 An example of how the set the roads up to let the stream flow over the road.
+
 ![5A45E1FA-B20E-4BD1-8D20-6691DF604989_1_102_o](../attachments/5A45E1FA-B20E-4BD1-8D20-6691DF604989_1_102_o.jpeg)
+
 Hunters Smoker that he and Gary fabricated.
+
 ![93DB60ED-3DE0-40DB-BCF3-99E1C550444C_4_5005_c](../attachments/93DB60ED-3DE0-40DB-BCF3-99E1C550444C_4_5005_c.jpeg)
+
 Catherine and me driving around in the "Rhino"
+
 ![4AAC8C78-2E44-4EA9-982E-0FEDB7AD817A_4_5005_c](../attachments/4AAC8C78-2E44-4EA9-982E-0FEDB7AD817A_4_5005_c.jpeg)
+
 Following Joyce - No need to follow too close, it's dusty.
+
 ![290FD85E-3ED0-4ECC-B5D4-D0735EA5FB87_4_5005_c](../attachments/290FD85E-3ED0-4ECC-B5D4-D0735EA5FB87_4_5005_c.jpeg)
+
 The cedar tree in the creek bed.
+
 ![45E77F81-8ABB-4E13-994A-63D08DB42F3C_4_5005_c](../attachments/45E77F81-8ABB-4E13-994A-63D08DB42F3C_4_5005_c.jpeg)
+
 Hunters Brisket
+
 ![3C8D3A1D-0407-4A4B-8D92-3A39A18F0C12_4_5005_c](../attachments/3C8D3A1D-0407-4A4B-8D92-3A39A18F0C12_4_5005_c.jpeg)
+
 Kai and I in a Rhino on the way to Gary and Diamonds place.
+
 ![939D287F-AF98-486E-923B-A10CBD6CB99C_4_5005_c](../attachments/939D287F-AF98-486E-923B-A10CBD6CB99C_4_5005_c.jpeg)
+
 Gary's smoker.
+
 ![767251BB-0FF3-4638-B109-1A0D0094E6D7_4_5005_c](../attachments/767251BB-0FF3-4638-B109-1A0D0094E6D7_4_5005_c.jpeg)
+
 Gary and Me
+
 ![9E70B2D5-DB43-4E3A-9A66-CCBBB25B0701_4_5005_c](../attachments/9E70B2D5-DB43-4E3A-9A66-CCBBB25B0701_4_5005_c.jpeg)
+
 Kai, Gary, Me, Catherine, Joyce 
+
 ![13B5831E-2817-4C28-98A7-B327DC7735D5_4_5005_c](../attachments/13B5831E-2817-4C28-98A7-B327DC7735D5_4_5005_c.jpeg)
+
 Hunter slicing the Brisket for dinner.
+
 ![6AD0D03A-EBF3-4F0E-B4BB-C31EBEED62D6_4_5005_c](../attachments/6AD0D03A-EBF3-4F0E-B4BB-C31EBEED62D6_4_5005_c.jpeg)
+
 Heading back to Ingram
 
 ![CleanShot 2024-04-07 at 07.22.52@2x](../attachments/CleanShot%202024-04-07%20at%2007.22.52@2x.png)
