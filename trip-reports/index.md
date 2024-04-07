@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-06-day15-day-trip-to-joyce's-place](./2024-04-06-day15-day-trip-to-joyce's-place.md)
 - [2024-04-05-day14-black-gap-wma-to-hill-country-arts-foundation](./2024-04-05-day14-black-gap-wma-to-hill-country-arts-foundation.md)
 - [2024-04-04-day13---big-bend-national-park](./2024-04-04-day13---big-bend-national-park.md)
 - [2024-04-03-day12-carlsbad-caverns-to-big-bend](./2024-04-03-day12-carlsbad-caverns-to-big-bend.md)

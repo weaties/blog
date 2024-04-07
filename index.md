@@ -9,6 +9,7 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
 - [index](./trip-reports/index.md)
+- [2024-04-06-day15-day-trip-to-joyce's-place](./trip-reports/2024-04-06-day15-day-trip-to-joyce's-place.md)
 - [2024-04-05-day14-black-gap-wma-to-hill-country-arts-foundation](./trip-reports/2024-04-05-day14-black-gap-wma-to-hill-country-arts-foundation.md)
 - [2024-04-04-day13---big-bend-national-park](./trip-reports/2024-04-04-day13---big-bend-national-park.md)
 - [2024-04-03-day12-carlsbad-caverns-to-big-bend](./trip-reports/2024-04-03-day12-carlsbad-caverns-to-big-bend.md)
