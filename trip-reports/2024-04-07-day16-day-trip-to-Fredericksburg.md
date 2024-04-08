@@ -1,6 +1,6 @@
 ---
 share: true
-title: 2024-04-7 Day16 day trip to Fredricksburg
+title: 2024-04-07 Day16 day trip to Fredricksburg
 date: 2024-04-07
 tags:
   - Trip-report
