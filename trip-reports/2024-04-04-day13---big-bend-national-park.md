@@ -1,7 +1,7 @@
 ---
 share: true
 title: 2024-04-04 day13 - Big Bend National Park
-date: 
+date: 2024-04-04
 tags:
   - Trip-report
 location:
