@@ -9,13 +9,13 @@ location:
   - -99.24763854793056
 ---
 
-Sunday Kai, Catherine and I took a day trip from the Hill Country Arts Foundation out to [Fredericksburg Tx](https://www.fbgtx.org)  about a 30 minute drive away.   Once there we spent about three hours walking up and down the main street, and poking our heads into different shops and galleries.   It was a rather pretty town.  It was founded by German immigrants in the 1840's and still has a lot of the German Heritage and history around.   
+Sunday, Kai, Catherine, and I took a day trip from the Hill Country Arts Foundation out to [Fredericksburg Tx](https://www.fbgtx.org) about a 30-minute drive away.   Once there, we spent about three hours walking up and down the main street and poking our heads into different shops and galleries.   It was a rather pretty town.  It was founded by German immigrants in the 1840s and still has a lot of German Heritage and history.   
 
 We popped our heads into two different art galleries, and what we found inside was absolutely stunning.  Alas, being that we are traveling, we didn't want to pick anything up (not to mention the prices were, shall we say, impressive).  
 
-Kai and I tested the Pretzel from the german baker, and let Justus know that Kaffeklatch pretzels are better.
+Kai and I tested the Pretzel from the German baker and let Justus know that Kaffeklatch pretzels are better.
 
-From there we headed back to the HCAF, where we met Scott and Martha.   And just had a wonderful time.  We went to a wine tasting, then grabbed some food at one of the food trucks, and then just kind of hung out and enjoyed each others company.
+From there, we headed back to the HCAF, where we met Scott and Martha.   And just had a wonderful time.  We went to a wine tasting, grabbed some food at one of the food trucks, and then just kind of hung out and enjoyed each other's company.
 
 As I write this, it is rather overcast, but the models are saying that there _might_ be some clearing later today for the eclipse - so fingers crossed!
 
