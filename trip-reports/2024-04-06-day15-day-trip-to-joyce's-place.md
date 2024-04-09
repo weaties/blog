@@ -90,6 +90,8 @@ Heading back to Ingram
 
 [<< Previous 2024-04-04-day13---big-bend-national-park](./2024-04-04-day13---big-bend-national-park.md)
 
+[Next >> 2024-04-07-day16-day-trip-to-Fredericksburg](./2024-04-07-day16-day-trip-to-Fredericksburg.md)
+
 
 
 <iframe src="https://www.gaiagps.com/public/42pdidY91UpX8NhqBQojhiXT/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />

@@ -34,3 +34,5 @@ Curtain Call of My Fair Lady.
 ![Pasted image 20240323064135](../attachments/Pasted%20image%2020240323064135.png)
 
 The van is loaded up, and we have _plenty_ of space.  I have the same feeling (which I _love_) that I used to have when we were younger as we got the boat ready to go for our trips to the San Juans.  This was a little easier, since we only had to walk to the drive way to load in ;) 
+
+[NEXT >> 2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom](./2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md)
