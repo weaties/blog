@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-10-day19-lincoln-city---petroglyphs---white-sands](./2024-04-10-day19-lincoln-city---petroglyphs---white-sands.md)
 - [2024-04-09-day18-leaving-texas---heading-towards-home](./2024-04-09-day18-leaving-texas---heading-towards-home.md)
 - [2024-04-08-day17-eclipse-day](./2024-04-08-day17-eclipse-day.md)
 - [2024-04-07-day16-day-trip-to-Fredericksburg](./2024-04-07-day16-day-trip-to-Fredericksburg.md)
