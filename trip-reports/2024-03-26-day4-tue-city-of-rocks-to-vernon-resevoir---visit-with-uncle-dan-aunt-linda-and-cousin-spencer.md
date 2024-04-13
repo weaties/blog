@@ -62,6 +62,7 @@ More sunrise on the mountain
 Our Route for the day.
 
 [<< Previous - 2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve](./2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve.md)
+
 [Next >> - 2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
 
 
