@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-12-day21-joshua-tree-national-park](./2024-04-12-day21-joshua-tree-national-park.md)
 - [2024-04-11-day20-white-sands-area-to-joshua-tree](./2024-04-11-day20-white-sands-area-to-joshua-tree.md)
 - [2024-04-10-day19-lincoln-city---petroglyphs---white-sands](./2024-04-10-day19-lincoln-city---petroglyphs---white-sands.md)
 - [2024-04-09-day18-leaving-texas---heading-towards-home](./2024-04-09-day18-leaving-texas---heading-towards-home.md)
