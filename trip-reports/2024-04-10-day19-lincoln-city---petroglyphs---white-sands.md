@@ -98,5 +98,9 @@ Mountains in the morning
 
 [Day19 Gyp Spring Canyon, Lincoln County to  Aguirre Springs Campground](https://www.gaiagps.com/public/4zpfBcJpvptL8YlFXMrseSw4/)
 
+[<< Previous - 2024-04-09-day18-leaving-texas---heading-towards-home](./2024-04-09-day18-leaving-texas---heading-towards-home.md)
+[Next >> - 2024-04-12-day21-joshua-tree-national-park](./2024-04-12-day21-joshua-tree-national-park.md)
+
+
 <iframe src="https://www.gaiagps.com/public/4zpfBcJpvptL8YlFXMrseSw4/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
