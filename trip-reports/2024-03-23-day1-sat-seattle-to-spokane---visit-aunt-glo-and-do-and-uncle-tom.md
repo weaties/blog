@@ -46,6 +46,7 @@ Mick, Julie, Kim. Gloria, Catherine, Liz, me, Liv outside of Azteca
 Me and my uncle Tom.  Alas, the picture of me and Aunt Do didn't come out well enough to share.
 
 [<< Previous 2024-03-22-fri-day0-the-night-before-we-leave](./2024-03-22-fri-day0-the-night-before-we-leave.md)
+
 [Next >> 2024-03-24-day2-sun-to-boise-to-visit-patrick](./2024-03-24-day2-sun-to-boise-to-visit-patrick.md)
 
 <iframe src="https://www.gaiagps.com/public/NXYph8XmPBdl4wLmWE5wCj5C/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />

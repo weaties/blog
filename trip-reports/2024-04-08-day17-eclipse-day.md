@@ -105,4 +105,5 @@ Perhaps we will see you on August 12, 2026 in Spain?
 ![CleanShot 2024-04-09 at 06.55.31@2x](../attachments/CleanShot%202024-04-09%20at%2006.55.31@2x.png)
 
 [<< Previous - 2024-04-07-day16-day-trip-to-Fredericksburg](./2024-04-07-day16-day-trip-to-Fredericksburg.md)
+
 [Next >> - 2024-04-09-day18-leaving-texas---heading-towards-home](./2024-04-09-day18-leaving-texas---heading-towards-home.md)

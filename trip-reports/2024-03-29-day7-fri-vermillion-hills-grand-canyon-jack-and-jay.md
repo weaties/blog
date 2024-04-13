@@ -59,6 +59,7 @@ Jack and Jay have three Dogs, and Jay's mom brought two dogs.  and then we threw
 [## Day7 Zion to Grand Canyon to Jack and Jay](https://www.gaiagps.com/public/O6PpQNn626qwCLtwRlKO90Oz/)
 
 [<< Previous - 2024-03-28-day6-thur-zion-canyon-to-marble-canyon](./2024-03-28-day6-thur-zion-canyon-to-marble-canyon.md)
+
 [Next >> - 2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome](./2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome.md)
 
 
