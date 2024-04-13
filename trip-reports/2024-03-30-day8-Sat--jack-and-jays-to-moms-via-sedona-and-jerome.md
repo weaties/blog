@@ -63,6 +63,7 @@ Mom, Sue, Sophie and Catherine
 [D8 from Jack and jays to moms](https://www.gaiagps.com/public/9wALsKc56ggU6FeIjn05a4xs/)
 
 [<< Previous - 2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay](./2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay.md)
+
 [Next >> - 2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette](./2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette.md)
 
 <iframe src="https://www.gaiagps.com/public/9wALsKc56ggU6FeIjn05a4xs/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
