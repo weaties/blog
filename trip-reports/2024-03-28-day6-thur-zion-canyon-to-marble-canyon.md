@@ -68,5 +68,9 @@ Another shot of the rig.
 
 [Day 5 blm near Zion to bim near marble canyon](https://www.gaiagps.com/public/pv2tG5gQ7rudZFHx55VWSQwG/)
 
+[<< Previous - 2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
+
+[Next >> - 2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay](./2024-03-29-day7-fri-vermillion-hills-grand-canyon-jack-and-jay.md)
+
 <iframe src="https://www.gaiagps.com/public/pv2tG5gQ7rudZFHx55VWSQwG/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
