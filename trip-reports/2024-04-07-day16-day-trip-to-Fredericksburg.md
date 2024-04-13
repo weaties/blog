@@ -68,6 +68,7 @@ Looking at the stars
 [Day 16 - Day trip too Fredericksburg](https://www.gaiagps.com/public/wO7fg2WjjR8lDurpKoFaGd3x/)
 
 [<< Previous 2024-04-06-day15-day-trip-to-joyce's-place](./2024-04-06-day15-day-trip-to-joyce's-place.md) 
+[Next >> - 2024-04-08-day17-eclipse-day](./2024-04-08-day17-eclipse-day.md)
 
 
 <iframe src="https://www.gaiagps.com/public/wO7fg2WjjR8lDurpKoFaGd3x/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
