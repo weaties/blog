@@ -62,6 +62,10 @@ That shadow is cast by the moon
 ![CleanShot 2024-03-25 at 22.11.18@2x](../attachments/CleanShot%202024-03-25%20at%2022.11.18@2x.png)
 An overview of our journey today.
 
+[<< Previous - 2024-03-24-day2-sun-to-boise-to-visit-patrick](./2024-03-24-day2-sun-to-boise-to-visit-patrick.md)
+
+[Next >> - 2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
+
 <iframe src="https://www.gaiagps.com/public/NYfMQTiyBD5NHaiNJQHgOPl9/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
 
