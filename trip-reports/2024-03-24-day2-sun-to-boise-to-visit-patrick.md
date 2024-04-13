@@ -61,6 +61,9 @@ Catherine and Patric ready for our meal (oh yea, and some wonderful Creme Brule!
 
 
 
+[<< Previous - 2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom](./2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md)
+
+[Next >> - 2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve](./2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve.md)
 
 <iframe src="https://www.gaiagps.com/public/I6VK9AVwQLX6QxwMzZZ4YHjK/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
