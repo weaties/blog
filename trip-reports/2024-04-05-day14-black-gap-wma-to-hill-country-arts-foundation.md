@@ -40,6 +40,7 @@ This is a piece of kinetic art that moves with the wind.
 
 
 [<< Previous - 2024-04-04-day13---big-bend-national-park](./2024-04-04-day13---big-bend-national-park.md) 
+
 [Next >>  - 2024-04-06-day15-day-trip-to-joyce's-place](./2024-04-06-day15-day-trip-to-joyce's-place.md)
 
 
