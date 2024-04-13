@@ -73,5 +73,9 @@ One of the many artist' Galleries in Silver City
 
 [Day20 - Aguirre springs to Joshua Tree - with Silver city and Emry pass ](https://www.gaiagps.com/public/rsb0cQBRRZZhnWw68FObobE1/)
 
+[<< Previous - 2024-04-10-day19-lincoln-city---petroglyphs---white-sands](./2024-04-10-day19-lincoln-city---petroglyphs---white-sands.md)
+[Next >> - 2024-04-12-day21-joshua-tree-national-park](./2024-04-12-day21-joshua-tree-national-park.md)
+
+
 <iframe src="https://www.gaiagps.com/public/rsb0cQBRRZZhnWw68FObobE1/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
