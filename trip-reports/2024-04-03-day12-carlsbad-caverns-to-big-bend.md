@@ -73,5 +73,8 @@ The French Grocer
 
 [Day 12 BLM to Carlsbad to big bend](https://www.gaiagps.com/public/askVxrzmgL9xMwGSw1x92rsG/)
 
+[<<Previous - 2024-04-02-day11-guadelupe-mountains-national-park](./2024-04-02-day11-guadelupe-mountains-national-park.md)
+[Next >> - 2024-04-04-day13---big-bend-national-park](./2024-04-04-day13---big-bend-national-park.md)
+
 <iframe src="https://www.gaiagps.com/public/askVxrzmgL9xMwGSw1x92rsG/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 

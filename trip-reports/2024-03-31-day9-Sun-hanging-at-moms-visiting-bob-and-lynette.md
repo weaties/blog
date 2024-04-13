@@ -39,3 +39,5 @@ Bob, Mavis and Lynette
 Me, Catherine, Bob, Lynette
 ![IMG_7662](../attachments/IMG_7662.jpeg)Sue, Me and Catherine before heading out Monday morning.
 
+[<< Previous - 2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome](./2024-03-30-day8-Sat--jack-and-jays-to-moms-via-sedona-and-jerome.md)
+[Next >> - 2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park](./2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)

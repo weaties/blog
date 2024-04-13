@@ -45,6 +45,11 @@ But we finally found a spot, and it was nice and quite.
 
 [our route today on gaiGPS](https://www.gaiagps.com/public/oo9Z3Oslpv9BBOmcPgQ7VOau/)
 
+[<< Previous - 2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer](./2024-03-26-day4-tue-city-of-rocks-to-vernon-resevoir---visit-with-uncle-dan-aunt-linda-and-cousin-spencer.md)
+
+[Next >> - 2024-03-28-day6-thur-zion-canyon-to-marble-canyon](./2024-03-28-day6-thur-zion-canyon-to-marble-canyon.md)
 
 
 <iframe src="https://www.gaiagps.com/public/oo9Z3Oslpv9BBOmcPgQ7VOau/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
+
+

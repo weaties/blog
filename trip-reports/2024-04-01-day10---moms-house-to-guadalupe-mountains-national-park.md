@@ -36,5 +36,8 @@ Getting ready to roll down the road.
 
 [D10 moms to Guadalupe national park area](https://www.gaiagps.com/public/G3HpdoUcyaGfm6pV0ccbHHFx/)
 
+[<< Previous - 2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette](./2024-03-31-day9-Sun-hanging-at-moms-visiting-bob-and-lynette.md)
+[Next >> - 2024-04-02-day11-guadelupe-mountains-national-park](./2024-04-02-day11-guadelupe-mountains-national-park.md)
+
 <iframe src="https://www.gaiagps.com/public/G3HpdoUcyaGfm6pV0ccbHHFx/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 

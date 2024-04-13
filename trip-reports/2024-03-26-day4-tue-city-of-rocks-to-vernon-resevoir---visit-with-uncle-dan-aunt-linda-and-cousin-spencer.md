@@ -61,5 +61,9 @@ More sunrise on the mountain
 ![CleanShot 2024-03-27 at 08.21.12@2x](../attachments/CleanShot%202024-03-27%20at%2008.21.12@2x.png)
 Our Route for the day.
 
+[<< Previous - 2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve](./2024-03-25-day3-mon-boise-to-city-of-rocks-national-preserve.md)
+[Next >> - 2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-](./2024-03-27-day5-wed-vernon-resevoir-to-kolob-canyon-.md)
+
+
 <iframe src="https://www.gaiagps.com/public/kznwqmohCQdm5gltfcsu0mOk/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
