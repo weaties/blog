@@ -64,5 +64,9 @@ All setup for the night.
 
 [Day18 Lions Park, Ingram, TX to Gyp Spring Canyon, Lincoln County, NM, USA](https://www.gaiagps.com/public/U8dHHtKEOvuDUFE6h5exA2Ft/)
 
+[<< Previous - 2024-04-08-day17-eclipse-day](./2024-04-08-day17-eclipse-day.md)
+[Next >> - 2024-04-09-day18-leaving-texas---heading-towards-home](2024-04-09-day18-leaving-texas---heading-towards-home.md)
+
+
 <iframe src="https://www.gaiagps.com/public/U8dHHtKEOvuDUFE6h5exA2Ft/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
