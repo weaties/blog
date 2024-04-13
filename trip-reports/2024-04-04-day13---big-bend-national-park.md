@@ -61,6 +61,7 @@ and the sun goes away.
 [Day 13 Santa Eliana canyon. Big bend national park](https://www.gaiagps.com/public/mraNYu74XiHEoQfbj5hxfFuh/)
 
 [<< Previous - 2024-04-03-day12-carlsbad-caverns-to-big-bend](./2024-04-03-day12-carlsbad-caverns-to-big-bend.md)
+
 [Next >> - 2024-04-05-day14-black-gap-wma-to-hill-country-arts-foundation](./2024-04-05-day14-black-gap-wma-to-hill-country-arts-foundation.md)
 
 <iframe src="https://www.gaiagps.com/public/qNxtByHp6zeslWctBA09yjyZ/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
