@@ -55,6 +55,9 @@ This mornings Sunrise
 
 [Day11 McKittrick Canyon hike](https://www.gaiagps.com/public/9OzpbJpjTreIHI3EYs9wjIdM/)
 
+[<< Previojus -2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park](./2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)
+[Next >> 2024-04-03-day12-carlsbad-caverns-to-big-bend](./2024-04-03-day12-carlsbad-caverns-to-big-bend.md)
+
 <iframe src="https://www.gaiagps.com/public/9OzpbJpjTreIHI3EYs9wjIdM/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
 
