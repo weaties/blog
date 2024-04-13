@@ -1,0 +1,51 @@
+---
+share: true
+title: 2024-04-12 day21 Joshua Tree National Park
+date: 2024-04-12
+tags:
+  - Trip-report
+location:
+  - 35.102622410803846
+  - -118.42728766492259
+---
+
+
+
+
+![2107F637-6780-4D88-8C29-F0A3D7EF57E8_1_102_o](../attachments/2107F637-6780-4D88-8C29-F0A3D7EF57E8_1_102_o.jpeg)
+
+![285AD8C4-C6C6-4424-A12F-8CAE8C03EBAE_1_102_o](../attachments/285AD8C4-C6C6-4424-A12F-8CAE8C03EBAE_1_102_o.jpeg)
+
+![A892C756-FFEA-4EC2-B56C-43F6D2FC74F3](../attachments/A892C756-FFEA-4EC2-B56C-43F6D2FC74F3.jpeg)
+
+
+![68701DAE-15AE-4B44-B005-4E2F81D9E13C_1_102_o](../attachments/68701DAE-15AE-4B44-B005-4E2F81D9E13C_1_102_o.jpeg)
+
+![B0072E1C-118E-4B84-B77B-7E5025E43868_1_102_o](../attachments/B0072E1C-118E-4B84-B77B-7E5025E43868_1_102_o.jpeg)
+
+![5E9413EE-3F83-4FBB-8C09-674FE7B79442_1_102_o](../attachments/5E9413EE-3F83-4FBB-8C09-674FE7B79442_1_102_o.jpeg)
+
+![6F0EC927-73C6-4E08-B38E-DAECF2FD27EC_1_102_o](../attachments/6F0EC927-73C6-4E08-B38E-DAECF2FD27EC_1_102_o.jpeg)
+
+![2E46F175-4A3A-4CCC-9772-9F22235229B3_1_102_o](../attachments/2E46F175-4A3A-4CCC-9772-9F22235229B3_1_102_o.jpeg)
+
+![B6914289-B07E-4286-A962-F440E5B4146F_1_102_a](../attachments/B6914289-B07E-4286-A962-F440E5B4146F_1_102_a.jpeg)
+
+![B4546B3E-E0AE-421D-BD64-93FBA85C8930_1_102_o](../attachments/B4546B3E-E0AE-421D-BD64-93FBA85C8930_1_102_o.jpeg)
+
+![8F015E8A-FE6F-4379-9E64-1148C9B06780_1_102_o](../attachments/8F015E8A-FE6F-4379-9E64-1148C9B06780_1_102_o.jpeg)
+
+![D77F1823-BFCA-4B62-8A50-890644493812_1_102_o](../attachments/D77F1823-BFCA-4B62-8A50-890644493812_1_102_o.jpeg)
+
+![B425BEC0-4C3B-4787-A17E-AFD25D53BCA3_1_201_a](../attachments/B425BEC0-4C3B-4787-A17E-AFD25D53BCA3_1_201_a.heic.md)
+
+![F2AA951A-5E0A-4225-839C-2798A5AD6B62_1_102_o](../attachments/F2AA951A-5E0A-4225-839C-2798A5AD6B62_1_102_o.jpeg)
+
+![CleanShot 2024-04-13 at 07.22.25@2x](../attachments/CleanShot%202024-04-13%20at%2007.22.25@2x.png)
+
+[Day21 Joshua tree](https://www.gaiagps.com/public/o7Ykau80z54Rk1xRKMquJ7q5/)
+
+[<< Previous - 2024-04-11-day20-white-sands-area-to-joshua-tree](./2024-04-11-day20-white-sands-area-to-joshua-tree.md)
+
+<iframe src="https://www.gaiagps.com/public/o7Ykau80z54Rk1xRKMquJ7q5/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
+
