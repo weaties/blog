@@ -64,25 +64,47 @@ Me, Catherine and Athena at White Sands national Park.
 
 ![IMG_8601 1](../attachments/IMG_8601%201.jpeg)
 
+Another Beautiful campsite for the night outside of White Sands.
+
 ![IMG_8643 2](../attachments/IMG_8643%202.jpeg)
+
+Climbing Emory pass.
 
 ![IMG_8660 2](../attachments/IMG_8660%202.jpeg)
 
+The Chino copper mine
+
 ![IMG_8673 2](../attachments/IMG_8673%202.jpeg)
+
+An artists Gallery in Silver City.
 
 ![IMG_8691 1](../attachments/IMG_8691%201.jpeg)
 
+Catherine doing her good deed for the day saving a desert tortoise from becoming a flat speed bump.
+
 ![IMG_8739 1](../attachments/IMG_8739%201.jpeg)
+
+Catherine and a fuzzy Joshua Tree.
 
 ![IMG_8807 2](../attachments/IMG_8807%202.jpeg)
 
+I made weight to go for a glider ride, but alas the winds had shifted and so they stopped flying.
+
 ![IMG_8929 2](../attachments/IMG_8929%202.jpeg)
+
+Me and Catherine on our way to see the biggest tree in the world.
 
 ![IMG_8939 2](../attachments/IMG_8939%202.jpeg)
 
+And there it is, the biggest tree in the world!
+
 ![IMG_8957 2](../attachments/IMG_8957%202.jpeg)
 
+but it was not the _ONLY_ big tree in the park ;) 
 
+![CleanShot 2024-04-14 at 08.53.41@2x](../attachments/CleanShot%202024-04-14%20at%2008.53.41@2x.png)
+
+Our track for week three.
 ## Some Stats
 
 - Miles driven 1,409
