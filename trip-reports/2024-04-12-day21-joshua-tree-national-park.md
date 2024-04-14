@@ -96,5 +96,7 @@ Driving up to the Joshua Tree Vista that looks over the Coachella Valley
 
 [<< Previous - 2024-04-11-day20-white-sands-area-to-joshua-tree](./2024-04-11-day20-white-sands-area-to-joshua-tree.md)
 
+[Next >> - 2024-04-13-day22-skylark-airport-to-sequoia-national-park](./2024-04-13-day22-skylark-airport-to-sequoia-national-park.md)
+
 <iframe src="https://www.gaiagps.com/public/o7Ykau80z54Rk1xRKMquJ7q5/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
