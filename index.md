@@ -9,6 +9,7 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
 - [index](./trip-reports/index.md)
+- [2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach](./trip-reports/2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)
 - [2024-04-13-day22-skylark-airport-to-sequoia-national-park](./trip-reports/2024-04-13-day22-skylark-airport-to-sequoia-national-park.md)
 - [2024-04-12-day21-joshua-tree-national-park](./trip-reports/2024-04-12-day21-joshua-tree-national-park.md)
 - [2024-04-11-day20-white-sands-area-to-joshua-tree](./trip-reports/2024-04-11-day20-white-sands-area-to-joshua-tree.md)
