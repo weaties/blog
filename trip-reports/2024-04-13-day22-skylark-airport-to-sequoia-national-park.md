@@ -95,6 +95,10 @@ Me, Vickie, Steve and Catherine at the end of a beautiful conversation.
 
 [<< Previous - 2024-04-12-day21-joshua-tree-national-park](./2024-04-12-day21-joshua-tree-national-park.md)
 
+[next >> 2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach](./2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)
+
 <iframe src="https://www.gaiagps.com/public/kNUMgmzz9utsvMNCoLwICgFh/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
+
+
 
 
