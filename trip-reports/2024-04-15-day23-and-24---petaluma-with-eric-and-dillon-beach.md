@@ -61,6 +61,8 @@ Enjoying the sunset.
 
 [<< Previous - 2024-04-13-day22-skylark-airport-to-sequoia-national-park](./2024-04-13-day22-skylark-airport-to-sequoia-national-park.md)
 
+[Next >> 2024-04-16-day25-lawsons-landing-with-george-and-the-boys](./2024-04-16-day25-lawsons-landing-with-george-and-the-boys.md)
+
 
 <iframe src="https://www.gaiagps.com/public/JJNE0oIx1N43hAYBbfwtr68e/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
 
