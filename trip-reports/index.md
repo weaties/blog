@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-16-day25-lawsons-landing-with-george-and-the-boys](./2024-04-16-day25-lawsons-landing-with-george-and-the-boys.md)
 - [2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach](./2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)
 - [2024-04-13-day22-skylark-airport-to-sequoia-national-park](./2024-04-13-day22-skylark-airport-to-sequoia-national-park.md)
 - [2024-04-12-day21-joshua-tree-national-park](./2024-04-12-day21-joshua-tree-national-park.md)
