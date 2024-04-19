@@ -98,5 +98,8 @@ Where I am writing this letter from.
 
 [<< Previous - 2024-04-16-day25-lawsons-landing-with-george-and-the-boys](./2024-04-16-day25-lawsons-landing-with-george-and-the-boys.md)
 
+[Next >> - 2024-04-18-day27-clam-beach-to-oregon-coast](./2024-04-18-day27-clam-beach-to-oregon-coast.md)
+
 <iframe src="https://www.gaiagps.com/public/9xi2hKz5a8AeGErhyfKOYgN2/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
+
 
