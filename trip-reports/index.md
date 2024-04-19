@@ -5,6 +5,7 @@ share: true
 This is an index of all of the trip reports that I have created.  that is about it.
 
 - [index](index.md)
+- [2024-04-18-day27-clam-beach-to-oregon-coast](./2024-04-18-day27-clam-beach-to-oregon-coast.md)
 - [2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka](./2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka.md)
 - [2024-04-16-day25-lawsons-landing-with-george-and-the-boys](./2024-04-16-day25-lawsons-landing-with-george-and-the-boys.md)
 - [2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach](./2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)
