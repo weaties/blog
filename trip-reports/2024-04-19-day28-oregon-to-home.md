@@ -21,6 +21,9 @@ I'll keep the list around and mail out to it periodically as we do trips that I 
 
 Here are some stats for the trip.
 
+```
+
+
 | Title                               | Value                                                                                                                                                                                |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | How long was the trip               | 28 days                                                                                                                                                                              |
@@ -33,13 +36,17 @@ Here are some stats for the trip.
 | MPG                                 | 15.27 mpg                                                                                                                                                                            |
 | Cost Per Gallon                     | $3.98                                                                                                                                                                                |
 | Cost Per Mile                       | $0.2611                                                                                                                                                                              |
-| Most expensive Fuel                 | $5.60 / Gallon - Peteluma CA [Day 23 & 24 in Peteluma](./2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)                                                 |
-| Least expensive Fuel                | $3.30 / El Passo TX - [Day 10 - Mom's house to Guadalupe](./2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)                                         |
+| Most expensive Fuel                 | $5.60 / Gallon - Peteluma CA [[trip-reports/2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach\|Day 23 & 24 in Peteluma]]                                                 |
+| Least expensive Fuel                | $3.30 / El Passo TX - [[trip-reports/2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park\|Day 10 - Mom's house to Guadalupe]]                                         |
 | Oil                                 | I checked the oil pretty regular - and never needed to add any                                                                                                                       |
-| Most miles on a single tank         | 345 miles [Day 10 - Mom's house to Guadalupe](./2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)                                                     |
-| Most miles in a single day          | 608 miles [Day 20 - to Joshua Tree](./2024-04-11-day20-white-sands-area-to-joshua-tree.md)                                                                                 |
-| Highest elevation                   | 8,154 feet [Day 20 - to Joshua Tree](./2024-04-11-day20-white-sands-area-to-joshua-tree.md)                                                                                |
+| Most miles on a single tank         | 345 miles [[trip-reports/2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park\|Day 10 - Mom's house to Guadalupe]]                                                     |
+| Most miles in a single day          | 608 miles [[trip-reports/2024-04-11-day20-white-sands-area-to-joshua-tree\|Day 20 - to Joshua Tree]]                                                                                 |
+| Highest elevation                   | 8,154 feet [[trip-reports/2024-04-11-day20-white-sands-area-to-joshua-tree\|Day 20 - to Joshua Tree]]                                                                                |
 | Maintenance issues                  | No significant issues.   I did check the brakes at my cousin Eric's place, and we discovered that the passenger side rear pads were shot - we made it home and have new ones coming. |
+
+```
+
+
 ![CleanShot 2024-04-20 at 10.00.18@2x](../attachments/CleanShot%202024-04-20%20at%2010.00.18@2x.png)
 
 Our Trip
