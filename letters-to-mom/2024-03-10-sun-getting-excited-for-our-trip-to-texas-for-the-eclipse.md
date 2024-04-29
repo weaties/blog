@@ -47,6 +47,7 @@ Here is a panorama of our backyard.   We have been getting on the yard maintenan
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-04-28-sun-back-from-work-and-racing-at-the-ridge](./2024-04-28-sun-back-from-work-and-racing-at-the-ridge.md)
 - [2024-04-21-sun-eclipse-week-for-sees-us-return-home](./2024-04-21-sun-eclipse-week-for-sees-us-return-home.md)
 - [2024-04-14-sun-eclipse-trip-week-three---from-texas-to-central-california](./2024-04-14-sun-eclipse-trip-week-three---from-texas-to-central-california.md)
 - [2024-04-07-sun-eclipse-week-2---from-moms-to-hill-country-art-foundation](./2024-04-07-sun-eclipse-week-2---from-moms-to-hill-country-art-foundation.md)
