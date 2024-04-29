@@ -95,8 +95,5 @@ Goodbye sunset.
 
 [<< Previous - 2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka](./2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka.md)
 
-[Next >> - 2024-04-19-day28-oregon-to-home](./2024-04-19-day28-oregon-to-home.md)
-
 <iframe src="https://www.gaiagps.com/public/juiYbc31YCsdpQre4SEAIGtn/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
-
 
