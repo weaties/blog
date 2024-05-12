@@ -16,15 +16,15 @@ Well,  That's a wrap!  Catherine and I have returned home from our big adventure
 3. Visit cool places, and see new things - check
 4. Trial run the van and see if it is something that we can do for an extended period of time - check
 
-This past week we started by heading up to [Petaluma on Day 23 and 24](../trip-reports/2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md) to hang out with my cousin Eric, his Wife Maggie, and their wonderful daughter Sahalee.   It was good to catch up with Eric and the Fam.  While we were there Eric and I geeked out about our vans, and he helped me check the brakes on our Van to discover that the passenger side rear brake pads were shot - they managed to get us home, but I have new ones to put on today.  
+This past week we started by heading up to [Petaluma on Day 23 and 24](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md) to hang out with my cousin Eric, his Wife Maggie, and their wonderful daughter Sahalee.   It was good to catch up with Eric and the Fam.  While we were there Eric and I geeked out about our vans, and he helped me check the brakes on our Van to discover that the passenger side rear brake pads were shot - they managed to get us home, but I have new ones to put on today.  
 
-From there we had a short drive over to [Lawsons Landing on day 25](../trip-reports/2024-04-16-day25-lawsons-landing-with-george-and-the-boys.md) where we met up with our good friend George and his kids Felix and Stefan.  There we enjoyed catching up, hanging out at the campfire roasting marshmallows in the evening, flying kites, and eating oysters. 
+From there we had a short drive over to [Lawsons Landing on day 25](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-16-day25-lawsons-landing-with-george-and-the-boys.md) where we met up with our good friend George and his kids Felix and Stefan.  There we enjoyed catching up, hanging out at the campfire roasting marshmallows in the evening, flying kites, and eating oysters. 
 
-From there, the horse started smelling the barn (so to speak), so we didn't make as many stops along the California or Oregon coasts as they warrant - but we did have a wonderful visit to Mancino, and a wonderful night of food and music in [Eureka on day 26](../trip-reports/2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka.md) of the trip.
+From there, the horse started smelling the barn (so to speak), so we didn't make as many stops along the California or Oregon coasts as they warrant - but we did have a wonderful visit to Mancino, and a wonderful night of food and music in [Eureka on day 26](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka.md) of the trip.
 
-From there we headed up to a wonderful national forest service campground on the [Oregon coast on day 27](../trip-reports/2024-04-18-day27-clam-beach-to-oregon-coast.md) Along the way we stopped in and checked out Redwood National Park, as well as the trees of Mystery.
+From there we headed up to a wonderful national forest service campground on the [Oregon coast on day 27](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-18-day27-clam-beach-to-oregon-coast.md) Along the way we stopped in and checked out Redwood National Park, as well as the trees of Mystery.
 
-And finally, [Friday day28](../trip-reports/2024-04-19-day28-oregon-to-home.md) saw us make the final push home to arrive just at 4:00 PM. Where we unloaded, and cleaned the rig.   We caught up with Katarina before she headed out for her Mom's birthday, and we started slipping back into normal life.
+And finally, [Friday day28](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-19-day28-oregon-to-home.md) saw us make the final push home to arrive just at 4:00 PM. Where we unloaded, and cleaned the rig.   We caught up with Katarina before she headed out for her Mom's birthday, and we started slipping back into normal life.
 
 
 Here are some stats from the trip.
@@ -41,12 +41,12 @@ Here are some stats from the trip.
 | MPG                                 | 15.27 mpg                                                                                                                                                                            |
 | Cost Per Gallon                     | $3.98                                                                                                                                                                                |
 | Cost Per Mile                       | $0.2611                                                                                                                                                                              |
-| Most expensive Fuel                 | $5.60 / Gallon - Peteluma CA [Day 23 & 24 in Peteluma](../trip-reports/2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)                                                 |
-| Least expensive Fuel                | $3.30 / El Passo TX - [Day 10 - Mom's house to Guadalupe](../trip-reports/2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)                                         |
+| Most expensive Fuel                 | $5.60 / Gallon - Peteluma CA [Day 23 & 24 in Peteluma](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-15-day23-and-24---petaluma-with-eric-and-dillon-beach.md)                                                 |
+| Least expensive Fuel                | $3.30 / El Passo TX - [Day 10 - Mom's house to Guadalupe](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)                                         |
 | Oil                                 | I checked the oil pretty regular - and never needed to add any                                                                                                                       |
-| Most miles on a single tank         | 345 miles [Day 10 - Mom's house to Guadalupe](../trip-reports/2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)                                                     |
-| Most miles in a single day          | 608 miles [Day 20 - to Joshua Tree](../trip-reports/2024-04-11-day20-white-sands-area-to-joshua-tree.md)                                                                                 |
-| Highest elevation                   | 8,154 feet [Day 20 - to Joshua Tree](../trip-reports/2024-04-11-day20-white-sands-area-to-joshua-tree.md)                                                                                |
+| Most miles on a single tank         | 345 miles [Day 10 - Mom's house to Guadalupe](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-01-day10---moms-house-to-guadalupe-mountains-national-park.md)                                                     |
+| Most miles in a single day          | 608 miles [Day 20 - to Joshua Tree](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-11-day20-white-sands-area-to-joshua-tree.md)                                                                                 |
+| Highest elevation                   | 8,154 feet [Day 20 - to Joshua Tree](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-11-day20-white-sands-area-to-joshua-tree.md)                                                                                |
 | Maintenance issues                  | No significant issues.   I did check the brakes at my cousin Eric's place, and we discovered that the passenger side rear pads were shot - we made it home and have new ones coming. |
 
 and an overview of our route.

@@ -33,7 +33,7 @@ Ok - gonna wrap this up and send this off!
 Love ya!
 Dan W
 
-PS - for a detailed look at what our route currently looks like check out [2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary](../trip-reports/2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary.md)
+PS - for a detailed look at what our route currently looks like check out [2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary](../trip-reports/2024-eclipse-texas-roadtrip/2024-03-01-Seattle-Hill-country-art-council-13-day-itinerary.md)
 
 
 Not a big week for pictures.
@@ -47,6 +47,7 @@ Here is a panorama of our backyard.   We have been getting on the yard maintenan
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-05-12-sun-happy-mothers-day!](./2024-05-12-sun-happy-mothers-day!.md)
 - [2024-05-05-sun-sunday-visit---spring-is-in-the-air](./2024-05-05-sun-sunday-visit---spring-is-in-the-air.md)
 - [2024-04-28-sun-back-from-work-and-racing-at-the-ridge](./2024-04-28-sun-back-from-work-and-racing-at-the-ridge.md)
 - [2024-04-21-sun-eclipse-week-for-sees-us-return-home](./2024-04-21-sun-eclipse-week-for-sees-us-return-home.md)

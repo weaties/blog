@@ -16,7 +16,7 @@ On Wednesday, I met up with my buddy Brian Oneil for lunch near campus.  We get 
 
 Thursday was happy hour day, and we had a pretty good turn out.  Bob and Kristie were there, as were Scott and Kirk.  Jenn showed up later, and her Daughter, and her Daughters Fiance also showed up.  The last time I saw Hannah she was just a kid, and now she is getting married.   I had a wonderful visit with both of them.
 
-Friday afternoon, I took off early from work and headed out for white pass to meet up with some buddies for a birthday celebration.  You can read more about that trip [here](../trip-reports/2024-03-16-sat-d-7-starlink-and-whitepass.md) if you are interested.  
+Friday afternoon, I took off early from work and headed out for white pass to meet up with some buddies for a birthday celebration.  You can read more about that trip [here](../trip-reports/2024-eclipse-texas-roadtrip/2024-03-16-sat-d-7-starlink-and-whitepass.md) if you are interested.  
 
 I decided not to do any more skiing this weekend so that I could give my feet a break and have a chance to get home a bit earlier than I otherwise would have.  So currently, I am sitting in [Taidnapam Park](https://www.mytpu.org/community-environment/parks-recreation/taidnapam-park/) on my way home.   It is a pleasant little park, and the weather is just absolutely stunning.
 

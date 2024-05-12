@@ -17,7 +17,7 @@ First leg of the trip to texas for the [2024 eclipse](2024%20eclipse.md). and we
 
 ^cd039e
 
-see [24/03/06 starlink and whitepass](./trip-reports/2024-03-16-sat-d-7-starlink-and-whitepass.md) for a complete run down of my trip to whitepass.  During the afternoon Eric, Jaron and I just hung out, and shared with each other different musicians by playing them on the TV by casting youtube videos at the TV.  
+see [24/03/06 starlink and whitepass](./trip-reports/2024-eclipse-texas-roadtrip/2024-03-16-sat-d-7-starlink-and-whitepass.md) for a complete run down of my trip to whitepass.  During the afternoon Eric, Jaron and I just hung out, and shared with each other different musicians by playing them on the TV by casting youtube videos at the TV.  
 
 - [Noah Kahan](https://music.apple.com/us/artist/noah-kahan/328583953)
 - [The Main Squeeze](https://music.apple.com/us/artist/the-main-squeeze/489956736)

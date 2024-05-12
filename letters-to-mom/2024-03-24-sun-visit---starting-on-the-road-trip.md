@@ -19,13 +19,13 @@ On Thursday, Kai flew into town, so instead of the traditional happy hour, we al
 
 After dinner, John Helde stopped by the house to return the laptop I loaned him last year to edit his Film Marcies.  Having my own laptop is nice, and I did _NOT_ bring my work laptop with me on this trip.  :)
 
-[Friday night](../trip-reports/2024-03-22-fri-day0-the-night-before-we-leave.md), we had Kai over for dinner and went to Shoreline Community College to see the Woodland Park Players' production of My Fair Lady.   When we got home from that, I finished loading up the van and putting things away so that in the morning, we could bounce up and ROLL!
+[Friday night](../trip-reports/2024-eclipse-texas-roadtrip/2024-03-22-fri-day0-the-night-before-we-leave.md), we had Kai over for dinner and went to Shoreline Community College to see the Woodland Park Players' production of My Fair Lady.   When we got home from that, I finished loading up the van and putting things away so that in the morning, we could bounce up and ROLL!
 
-[Yesterday](../trip-reports/2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md), we kicked things off with the first leg of the trip to see Aunt Gloria, Aunt Do, and Uncle Tom, and we had wonderful visits with them.  
+[Yesterday](../trip-reports/2024-eclipse-texas-roadtrip/2024-03-23-day1-sat-seattle-to-spokane---visit-aunt-glo-and-do-and-uncle-tom.md), we kicked things off with the first leg of the trip to see Aunt Gloria, Aunt Do, and Uncle Tom, and we had wonderful visits with them.  
 
 Today, we are heading towards Boise, Idaho, where we will hang out with our friend Patrick Atkinson, who moved there a couple of years ago.
 
-On this trip, I will be writing a daily [trip report](../trip-reports/index.md).  I recognize that that could be a bit overwhelming for folks, so I will keep writing a weekly mail that links to those different trip reports as I mention them in these missives and keep sending it to this group.   Let me know if anyone is interested in getting mail with the daily trip reports, and I will include you in those mailings.
+On this trip, I will be writing a daily [trip report](../trip-reports/2024-eclipse-texas-roadtrip/index.md).  I recognize that that could be a bit overwhelming for folks, so I will keep writing a weekly mail that links to those different trip reports as I mention them in these missives and keep sending it to this group.   Let me know if anyone is interested in getting mail with the daily trip reports, and I will include you in those mailings.
 
 Love ya All!
 
