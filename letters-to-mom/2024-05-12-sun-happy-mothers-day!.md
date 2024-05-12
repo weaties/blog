@@ -26,6 +26,9 @@ Friday night we had a nice light show with the northern lights, so we watched th
 
 Today looks like it is going to be a slow paced day., which is just fine.  :). 
 
+Love ya!
+Dan W
+
 ![IMG_0163 2](../attachments/IMG_0163%202.jpeg)
 This is a 3d model of a something that I want to build and install in the van.  The idea is that the bottom part will be a kennle for Athena, the top part will be an "inbox" where we can put things that don't have a better place to go while we are going in and out of the Van.  the Laptops will also sit in there, and have access to charging.  On the front side if it will be a leaf that can come up and work as a desk, and then flip all the way over, and be another horizontal surface for the galley, as well as lock to secure everything that is in box.
 
@@ -49,10 +52,17 @@ Emi and Chris cooking short ribs at their house.
 
 ![IMG_9849 2](../attachments/IMG_9849%202.jpeg)
 
-Sister Sue gavE ME 
+Sister Sue gave me this book, and I agreed to sign up for a 10k run in September.  So now I need to get a pair of shoes, and just start running :) 
 
 ![IMG_9850 2](../attachments/IMG_9850%202.jpeg)
 
+These were the northern lights from our front yard on Friday night.   The camera makes them a lot more dramatic then they were to the naked eye.   We didn't notice them when we came home on Saturday night.
+
 ![IMG_9857 2](../attachments/IMG_9857%202.jpeg)
 
+This was the first band that took the stage on Friday night.
+
 ![IMG_9864 2](../attachments/IMG_9864%202.jpeg)
+
+This is [Warren Dunes](https://www.warrendunesband.com/) on the stage here.  It was the album release party for their [aquamarine](https://warrendunes.bandcamp.com/album/aquamarine) album.  I have to say I quite enjoyed them.   (I also quite enjoyed the middle bad [all star opera](https://allstaropera.bandcamp.com))
+
