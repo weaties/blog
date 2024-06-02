@@ -47,6 +47,7 @@ Here is a panorama of our backyard.   We have been getting on the yard maintenan
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-06-02-sun-may-is-a-wrap---on-to-junuary](./2024-06-02-sun-may-is-a-wrap---on-to-junuary.md)
 - [2024-05-26-sun-a-week-of-events-and-a-rainy-spring](./2024-05-26-sun-a-week-of-events-and-a-rainy-spring.md)
 - [2024-05-19-sun-news-at-expedia](./2024-05-19-sun-news-at-expedia.md)
 - [2024-05-12-sun-happy-mothers-day!](./2024-05-12-sun-happy-mothers-day!.md)
