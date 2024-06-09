@@ -8,7 +8,6 @@ location:
 ---
 
 
-
 Good afternoon!
 
 I hope things are finding you all healthy, happy, and warm!   
