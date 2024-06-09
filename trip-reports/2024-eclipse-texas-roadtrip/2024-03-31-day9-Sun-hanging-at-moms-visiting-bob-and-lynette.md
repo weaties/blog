@@ -9,7 +9,6 @@ location:
   - -112.36489881931153
 ---
 
-
 Sunday, and what a nice way to spend the day - we spent most of the day just hanging out and bullshitting with Mom, Sue, Peter, and Sophie.   It was nice to catch up and share our stories without pressure to be anywhere or do anything special.   Peter is doing well.  He started his Ph.D. program in Norway, and he and Mari have settled well in Norway. The first winter back home went better than they expected.   Sophie is almost done with her first year of college and reports that it exceeds her expectations regarding how much she would like it.  She is really getting into her art efforts and showed us some fun projects she has been doing [shout paradoy trailer](https://www.youtube.com/watch?si=b5e1AOU5W7hglllt&v=wtT3B0cS0CE&feature=youtu.be&themeRefresh=1) and [another parody trailer](https://www.youtube.com/watch?v=utjkHnsm6po) .  Peter and I chatted a bit about AI and Large Language Models and their implications. . 
 
 In the afternoon, some of Mom's friends came over (Mary Lou, Cathy, and Don), and we chatted with them for a bit before Catherine and I excused ourselves to go see our old friends Bob and Lynette over in Peoria. 
