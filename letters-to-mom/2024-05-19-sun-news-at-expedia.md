@@ -6,7 +6,6 @@ tags:
   - letter-to-mom
 ---
 
-
 Good Morning!   I hope that things are well!   
 
 Well, I will get right into the big news of the week.  I got to work Friday morning to read an email from our new CEO sharing that the Chief Technology and Product officer, and her most senior leader, were no longer with the company effective immediately.    
