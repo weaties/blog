@@ -9,6 +9,7 @@ This is an index of all of the trip reports that I have created.  that is about 
 
 
 - [index](index.md)
+- [index](../index.md)
 - [2024-04-19-day28-oregon-to-home](./2024-04-19-day28-oregon-to-home.md)
 - [2024-04-18-day27-clam-beach-to-oregon-coast](./2024-04-18-day27-clam-beach-to-oregon-coast.md)
 - [2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka](./2024-04-17-day26---dillon-beach-to-clam-beach-with-a-stop-in-mancino-and-eureka.md)
