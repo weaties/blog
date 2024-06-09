@@ -9,7 +9,6 @@ location:
   - -106.55686
 ---
 
-
 We are on the 19th day of this trip.  We woke up to a beautiful sunrise outside of [Lincoln NM](https://en.wikipedia.org/wiki/Lincoln,_New_Mexico).   I made us some coffee, and then we headed out.    We went into the historic town of Lincoln, where Billy the Kid made his escape, but alas, it was a Wednesday, and everything is open Thursday - Monday.  So we looked through the windows and wandered the streets.  From there, we headed out towards White Sands National Park.   Along the way, we stopped at the [Smokey the Bear Museum in Capitan, NM](https://www.villageofcapitan.org/community/page/museum-and-gift-shop),   And then we saw the [Three Rivers Petroglyphs](https://www.blm.gov/visit/three-rivers-petroglyph-site) before stopping in at [McGuinns Pistachioland](https://pistachioland.com/), where we picked up some shirts, Pistachios, and wine.  There are probably 100 billboards throughout New Mexico advertising this place, and it far exceeded my expectations.  
 
 We went to the [White Sands National Park](https://www.nps.gov/whsa/index.htm), where we played in the Dunes.  This place is strange; it's like there was a big dump of white sand on the desert floor that is allowed to blow around in only this one particular spot.    The edges of it are so crisp...  There are dunes, and then there is the desert floor.  And then, as you are amongst the dunes, sometimes the valley between the dunes goes right to the desert floor.  
