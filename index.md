@@ -8,7 +8,8 @@ Hello world!   This is Dan, and I am creating my new blog using Obsidian and Git
 
 These are the trip reports that I right every day - I don't send them anywhere but here, and currently they are not part of the RSS feed.  if I figure out how to get an RSS feed going, they will be there :) 
 
-[trip reports](index.md)
+[trip reports](./trip-reports/index.md)
+
 
 
 ## Letters to Mom
