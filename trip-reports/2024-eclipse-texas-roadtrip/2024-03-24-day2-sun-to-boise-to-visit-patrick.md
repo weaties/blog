@@ -8,7 +8,6 @@ location:
   - 43.59485055187641
   - -116.18533343934847
 ---
-
 Well, Day 2 is in the books!  
 
 We Drove from the [Horn School Safety rest area](https://maps.apple.com/?address=101%E2%80%93105%20Old%20Thornton%20Highway%20Rd,%20Rosalia,%20WA%20%2099170,%20United%20States&ll=47.182200,-117.377330&q=101%E2%80%93105%20Old%20Thornton%20Highway%20Rd) down to Lewiston, where we got Fuel, and ended the day at our friend Patrick's place in Boise.  Patrick worked at Expedia with me. "Back in the day," where we became good friends.   
