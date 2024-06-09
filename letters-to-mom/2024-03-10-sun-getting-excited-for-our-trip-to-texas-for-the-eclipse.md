@@ -8,7 +8,6 @@ location:
   - 47.693836670389636
   - -122.3846409172954
 ---
-
 Happy Sunday! I hope things are going well and you are feeling happy and healthy.   
 
 Things are going well around here this past week.   The shock of the layoffs is starting to wear off. We are still working through the impacts of the different programs and if there will be things that leadership expects us to deliver anyway.    I've been counseling folks to determine what they _have_ to provide and then clarify what we won't be able to deliver.   The sooner people hear the news, the sooner they can get over it and move on.
