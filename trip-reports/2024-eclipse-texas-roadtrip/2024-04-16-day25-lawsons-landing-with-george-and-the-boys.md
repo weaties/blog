@@ -8,7 +8,6 @@ location:
   - 39.12927381516794
   - -123.71653840196699
 ---
-
 Day 25 of the trip was a great day of hanging out with George, Felix and Stefan.   It was a nice lazy day of not really going anywhere.  We got up slowly, and made breakdast of sausage and eggs for everyone, as well as some coffee, before George, the boys and I went for a walk down to the other end of the campground (this campground is _BIG_), visited the on site chandlery, and then went and flew a couple of kites for a while.  
 
 This was a great opportunity for George and I to catch up, which we hadn't really done in two years.   

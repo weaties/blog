@@ -4,7 +4,6 @@ title: Chat GPT prompt for road trip planning assistant
 ---
 
 
-
 This is the prompt that I used with ChatGPT to help us plan the road trip
 
 ```

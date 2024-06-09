@@ -6,7 +6,6 @@ tags:
   - letter-to-mom
 ---
 
-
 Happy Mothers Day Mom!
 
 I'm sorry about the mothers day gift goof up.  Sue, Judy and I did _NOT_ mean to send you a 1,000 piece puzzle that was white on both sides.  It was suppose to have this picture on it!  Apparently I forgot to actually, you know, add the picture to the puzzle :).  I've ordered a replacement that I am pretty sure looks like it is suppose to.  It should be there by Wedensday.

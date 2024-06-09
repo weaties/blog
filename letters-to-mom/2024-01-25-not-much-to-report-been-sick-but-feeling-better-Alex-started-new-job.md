@@ -6,7 +6,6 @@ location:
   - -122.3848207977342
 ---
 
-
 Good morning!  Thursday, Jan 25th, 2024
 
 Not a _whole_ lot to right about this week, but I did want to shoot of a quick note to say hi.

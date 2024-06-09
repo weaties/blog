@@ -8,7 +8,6 @@ location:
   - 30.07210807004891
   - -99.24650664801031
 ---
-
 The 2024 Eclipse is in the bag, and our trip continues.    We took our chances with the weather and stayed in place here at the Hill Country Arts Foundation, and, while the opportunity to see the sun in all of its glory was heavily impacted by the clouds, the experience was still a wonderful experience.  
 
 As the event approached, there was a building energy in the air.  The vendor booths were hopping, the lines at the food trucks were long, the grounds were crowded, and people were busting out their big telescopes.  And everyone was happy and excited despite the broken cloud cover.   One of the many cool things is that every time there was a break in the clouds that let us have a clear view of the sun, there was a roar of applause through the grounds.  

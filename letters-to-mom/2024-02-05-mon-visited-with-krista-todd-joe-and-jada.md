@@ -10,7 +10,6 @@ location:
 ---
 
 
-
 Good Morning! Monday, Feb 5th 2024
 
   

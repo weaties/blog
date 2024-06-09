@@ -9,7 +9,6 @@ location:
   - -113.16198
 ---
 
-
 We spent Wednesday driving from the Vernon Reservoir to Kolob Canyon, which is part of [Zion National Park](https://www.nps.gov/zion/)  
 
 The drive was uneventful.   We stopped in Delta to fuel up and wash all of the mud off of the rig, before continuing to head south.    The drive was fantastic, with wide-open vistas across the valley and mountains on either side.   

@@ -8,7 +8,6 @@ location:
   - 30.072324552973022
   - -99.24763854793056
 ---
-
 Sunday, Kai, Catherine, and I took a day trip from the Hill Country Arts Foundation out to [Fredericksburg Tx](https://www.fbgtx.org) about a 30-minute drive away.   Once there, we spent about three hours walking up and down the main street and poking our heads into different shops and galleries.   It was a rather pretty town.  It was founded by German immigrants in the 1840s and still has a lot of German Heritage and history.   
 
 We popped our heads into two different art galleries, and what we found inside was absolutely stunning.  Alas, being that we are traveling, we didn't want to pick anything up (not to mention the prices were, shall we say, impressive).  

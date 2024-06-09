@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 Hello world!   This is Dan, and I am creating my new blog using Obsidian and GitHub pages.   This blog is intended to be a source for me to share my adventures with anyone who cares to read them.   To find out more about how I manage and publish this blog check out [about-how-this-blog-is-created](./about-how-this-blog-is-created.md)
 
 ## Trip Reports

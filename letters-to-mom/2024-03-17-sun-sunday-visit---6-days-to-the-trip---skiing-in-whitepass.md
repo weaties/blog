@@ -7,7 +7,6 @@ tags:
 location: "[46.46369484408564,-122.18191133629654]"
 ---
 
-
 Good Day!  I hope that you are doing well and enjoying the coming spring.   Catherine and I are just a week away from starting our big road trip down to Texas to see the eclipse on the 8th of April.
 
 This week has been about getting ready for the trip.  The weather at the beginning of the week was pretty rainy and miserable, but by Wednesday, the weather had started improving, and this weekend was stunning.  

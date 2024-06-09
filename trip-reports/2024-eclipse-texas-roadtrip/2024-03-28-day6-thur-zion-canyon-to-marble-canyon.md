@@ -9,7 +9,6 @@ location:
   - -111.685051
 ---
 
-
 Our sixth day on the trip was visiting Zion National Park.   We got out of bed early and hit the road from our campsite on the [North Creek outside of Pocketvill UT](https://www.campendium.com/north-creek),  and headed towards Zion.  The previous day, while we were visiting Kolob Canyon, the manager mentioned that by 9:00 am, the parking lots would be full, so we wanted to make sure that we were there before things got too crazy, and that was definitely a good call.   I think one of the unique aspects of Zion National Park is just its level of accessibility.   Back in 2000, they started a shuttle service and removed private cars from the roadway, as it led to nothing but frustration and traffic jams for everyone.   So we got there just as things were opening up, and then got in the shuttle and headed up the canyon.  Even at 7:30 in the morning, the shuttle was absolutely packed.   
 
 At the top of the canyon, I hiked up the trail as far as I could without crossing the river.  There were a _lot_ of people who had rented waders, shoes, and poles so that they could continue the hike past that point.   Catherine headed back down, as her ankle was bothering her, and she wanted to give it a rest.   

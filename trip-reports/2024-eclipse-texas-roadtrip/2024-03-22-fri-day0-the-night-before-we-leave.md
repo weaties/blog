@@ -8,7 +8,6 @@ location:
   - 47.693847131595874
   - -122.38476535953686
 ---
-
 Well, things are just about ready - tomorrow is the big day!   We have spent the last couple of weeks maintaining a shared reminder list of things we wanted to ensure we packed for the trip.  We have spent this week gathering all of those things into little piles.  I went through and pulled _everything_ out of the van so that there would not be a _single thing_ we didn't know that we put in the van for the trip and why we decided to bring it.    Last night, I went through and loaded up the "Roll out bins" with everything on the list that we are OK having to dig for (snow chains, jumper cables, fishing gear, etc). And that is all sitting there, ready to place into the van and strap down.  I've got all of my clothes in packing cubes, and my backpack has the drone, the charger kit, keyboards, and laptops ready to go.  Catherine is currently loading in the Galley, and I am loading up the totes.   
 
 Later tonight, we are heading up to Shoreline Community College to watch their performance of My Fair Lady with Kai.  

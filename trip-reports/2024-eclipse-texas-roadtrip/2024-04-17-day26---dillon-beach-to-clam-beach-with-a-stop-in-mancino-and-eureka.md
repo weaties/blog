@@ -8,7 +8,6 @@ location:
   - 40.9975568456809
   - -124.11139614833918
 ---
-
 Day 26 sees us rolling out for the final leg of this beautiful trip that we have been on.   George and the boys had to roll out super early to get George and the boys back to school.  George was the walk parent this morning for the class walk.  So I got up early and made breakfast and coffee for everyone so they would have something in the car as they left at 7 am.  And since we were up, we also headed out, with an eye on getting at least to Eureka by taking Highway 1 all the way up the coast.
 
 Man, what a beautiful drive that was.  I did this same stretch of road back on my 2021 road trip [Day 4 – Eureka to San Fransisco – Weaties RoadTrip 2021](https://weatiesroadtrip2021.com/2021/05/07/day-4-eureka-to-san-fransisco/) and it was just as spectacular this time.

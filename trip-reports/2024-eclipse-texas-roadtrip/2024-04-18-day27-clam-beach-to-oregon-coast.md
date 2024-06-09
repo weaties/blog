@@ -9,7 +9,6 @@ location:
   - -124.11846
 ---
 
-
 Day 27, and we are getting closer and closer to home!   We woke up at Clam Beach in California and started heading north on 101 and 1.   What a beautiful drive up the coast, with beautiful weather.  Along the way we stopped at the Redwood Forests and went for a fantastic hike amongst the giant trees. and we saw herds of elk as we drove through the forests.    
 
 After that, we stopped along the way at the Trees of Mystery to visit their gift shop, and do their walk amongst the giants. The experience exceeded my expectations.   Their grounds were well maintained. They had nice interpretive signs, a rope walk suspended 50 feet above the ground we walked, and a gondola that took you to the top of the ridge where one can see from the ocean to Oregon.  

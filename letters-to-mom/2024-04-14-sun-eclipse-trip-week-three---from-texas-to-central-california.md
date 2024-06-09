@@ -8,7 +8,6 @@ location:
   - 36.55273429590902
   - -119.4872309955936
 ---
-
 Hey everyone!  Well, we have not only survived three weeks in the van so far, but we have been thriving.  It is a viable option for us for a longer trip.    It is running well (although we need to get it into a shop soon for a brake job). It is super comfortable to drive, hang out, cook and sleep.  It is highly capable on and off-road, and we have had plenty of electrical power.
 
 This week started with [Monday's eclipse](../trip-reports/2024-eclipse-texas-roadtrip/2024-04-08-day17-eclipse-day.md) with Scott, Martha, and Kai.  And while it was very cloudy, we did get a couple of breaks in the clouds that let us get a glimpse of the eclipse as it developed and during totality.   After the eclipse was over, we just sat tight and enjoyed each other's company.  It was nice to have a couple of hours of down time and just hanging out.  

@@ -4,7 +4,6 @@ title: Music Found
 date: 2024-03-17-Sun
 tags: []
 ---
-
 This Blog Entry will be used to keep track of the music that we discover during the trip.   I hope to be able to keep track of who the artists is, and the context of when we found 
 
 

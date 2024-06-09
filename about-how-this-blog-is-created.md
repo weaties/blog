@@ -3,7 +3,6 @@ share: true
 ---
 
 
-
 **Starting My Own Blog: A Practical Approach to Personal Content**
 
 I'm launching this blog for a simple purpose: to share letters and photos with family and friends and document my upcoming trips.

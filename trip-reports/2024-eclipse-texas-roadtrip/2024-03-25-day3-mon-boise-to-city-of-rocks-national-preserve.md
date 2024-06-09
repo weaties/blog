@@ -8,7 +8,6 @@ location:
   - 42.07095852914491
   - -113.70847077507223
 ---
-
 Today was a good day.   
 
 Catherine wanted to finish some work today, so Patrick and I headed into Boise and he gave me a wonderful tour of the town.  We started at the old Union Pacific depot, which has been lovingly restored.  The docent that tended to us was full of knowledge about the train station's history.   From there we headed past the campus of Boise state, before parking the car and wondering around downtown Boise.  What a wonderful city.  The [Treefort music festival](https://treefortmusicfest.com/) wrapped up on Sunday, so we just missed it, but I heard so many good things about it, that I think I will try and make a trip out of next year.  

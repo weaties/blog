@@ -9,7 +9,6 @@ location:
   - -104.424720332
 ---
 
-
 Day 11 found us actually traveling only a short distance.  We woke up in the morning at the Texas Safety rest area, where we had stopped the night before because the campground we had booked was on the _other_ side of the park, and there wasn't a road through the park to get there, and we would have had to drive two and a half hours to get there.   We felt fortunate with the unexpected discovery of the rest area.
 
 Anyway - got up, made our coffee, and then headed towards the [Guadalupe Mountains National Park](https://www.nps.gov/gumo/).  We stopped in at the visitors center, where we checked things out, and checked in.   After talking to the rangers, I decided to hike up the [McKittrick Canyon](https://www.nps.gov/gumo/planyourvisit/mckittrick.htm).  We set up the Starlink so Catherine could work, and I headed out.  The hike was just fantastic.  It was not too hot, the elevation gain was minimal, and the scenery was just stunning.   All in all, it took me four hours and was just about eight miles.  I had hoped to make it to "The Notch," but as I got up there, I was looking at my watch and realized that I was running low on time, and I had to turn around to make sure I got back to the rig before the gates were closed on us. The park is in a weird place, and Phones report the wrong time, so I could have made it.  Oh well.

@@ -8,7 +8,6 @@ location:
   - 46.644551558643236
   - -121.61491530920985
 ---
-
 Well...  It's seven Days until Catherine and I hit the road for the eclipse.  We have a list that we have been building for the past couple of weeks, and we will start pulling it together this week.
 
 One thing that was on the list we have taken care of already is getting Starlink to have internet along the trip. That arrived on Thursday, and I tested it out Thursday night when I got home, and it worked just fine.  
@@ -25,7 +24,7 @@ Back at the cabin, we had a lovely meal of corned beef, potatoes and cabbage, an
 
 Tomorrow we will likely head back out for some more time on the mountain, before heading home.
 
-I created a [music found on 3/16](../../music-found.md#cd039e) entry for the music that I discovered today.
+I created a [music found on 3/16](../../music-found.md#^cd039e) entry for the music that I discovered today.
 
 This week will be the week of final planning and packing.
 

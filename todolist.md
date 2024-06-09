@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 This is my list of things to do for the blog yet.
 
 - add a jekyll theme

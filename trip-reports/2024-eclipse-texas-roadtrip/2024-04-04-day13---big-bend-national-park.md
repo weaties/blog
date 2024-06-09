@@ -9,7 +9,6 @@ location:
   - -102.9462648072379
 ---
 
-
 After driving through Big Bend National Park in the dark the evening before, it was wonderful to go through the park in the daylight.  This park is massive.   We decided to drive along the scenic road that is 30 miles out to the Rio Grande and 30 miles back to the main road through the park and hike the Santa Elena canyon.   When we arrived at the trailhead, we realized that Athena wasn't going to be allowed to join the hike. As it was getting quite warm, we decided that Catherine would stay behind and use this as an opportunity to catch up on some of her work while I hiked up the canyon. 
 
 The canyon was impressive and immense.  The trial went only a mile or so before coming to an end at the water's edge.  The Rio Grande is nothing of its former glory, with all of the water being sucked out of it upstream, so I was able to wade across the river to Mexico, and the water never came above the mid-calf.    I spent some time on the Mexican side of the river just hanging out before wading back.  It might be the case that there is not much water flowing, but it was still plenty cold and it took a while for my toes to thaw out.
