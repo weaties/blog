@@ -6,7 +6,6 @@ tags:
   - letter-to-mom
 ---
 
-
 Good Morning!  
 
 I hope that this week has been kind to you, and that everyone is healthy and happy.  Things are well around here.   I didn't get a chance to go sailing on Monday, as we had rescheduled the OMCC monthly board meeting for Monday night.   The season's hot topic is the repair of a planter at one of the entrances to the Manor - we have three architects involved in the board, and they all agree that it should be rebuilt to be consistent with how it was before it was damaged.  And we have one member of the community who is dead set to exploit this opportunity to have it rebuilt as _he_ wants it rebuilt.   He's rather vocal and insistent and attended the meeting on Monday as well, so that was a long drawn-out meeting.   In the end, we decided to repair it "in kind", and the guy that wants it different will put together a design proposal to present to the general meeting in the fall.   This is just more evidence for me that I am not cut out to be a politician.  :)
