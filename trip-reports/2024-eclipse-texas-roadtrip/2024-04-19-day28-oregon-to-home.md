@@ -8,7 +8,6 @@ location:
   - 47.69384525175975
   - -122.38464837567082
 ---
-
 Day 28 saw the horse smelling the barn, and we drove with determination to get home.  The weather was beautiful, and the portion of the Oregon coastline that we were on deserves a week just by itself, but as always happens at the close of the trip, you want to get on home.  So we drove consistently and got home just before 4 in the afternoon.  Another motivation for driving so hard was that Catherine wanted to join Katarina at a cabinet consultation in the evening.
 
 Once we got home, we completely unloaded the van and cleaned it.  Once Catherine was done with the session with Katarina, she ordered some Teriyaki for us all, and I went and washed the van at the local car wash while the food was being prepared.
