@@ -2,7 +2,6 @@
 share: true
 date: 2024-03-23
 ---
-
 # This is a list of the shows that we see on the trip.
 
 
