@@ -9,7 +9,6 @@ location:
   - -122.38468457168067
 ---
 
-
 Good morning! Sunday, Feb 25th, 2024
 
 Well, here is hoping you are well, healthy and happy. Things are good here. It’s been something of a slow week around here.    Expedia’s campus was closed for a security sweep on Monday, so I worked from home that day and went into the office on Tuesday, Wednesday, and Thursday. I worked from home on Friday.  

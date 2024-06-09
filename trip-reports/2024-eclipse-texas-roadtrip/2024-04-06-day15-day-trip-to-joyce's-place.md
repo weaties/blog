@@ -8,7 +8,6 @@ location:
   - 30.07198104307545
   - -99.2467376018001
 ---
-
 Day 13 finds us in Ingram, TX.   A coworker of mine, Joyce,  lives in the area (and in Texas, that means within a 90-minute drive), and we had been talking about having her drive out and meet us and bring us some BBQ from her favorite place near where she lives.   Well, she contacted me and said that the place doesn't open as early as she thought, and I told her that was fine because we had nowhere to be and all day to get there.   That sparked a conversation because she thought we had some activities in the area that we wanted to attend to, and if that wasn't the case, why didn't we head out her way? They were a dog-friendly place, and we could take showers out there.  So we hopped in Kai's car and went out.
 
 Boy, I am glad that we did.

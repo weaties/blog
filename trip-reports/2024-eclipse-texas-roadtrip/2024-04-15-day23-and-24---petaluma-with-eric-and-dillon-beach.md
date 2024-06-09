@@ -8,7 +8,6 @@ location:
   - 38.2399
   - -122.96704
 ---
-
 Good morning everyone!  Sunday Catherine and I drove from the Kingsburg area up to Petaluma.  Not much of an exciting leg as it was raining when we left, and we wanted to get up to see Eric and the Fam to maximize our time with them.  
 
 It was great to see Eric, Maggie, and Sahale and their two dogs, Neva and Apple.  We chatted well into the evening and just had a wonderful visit.  Eric used his smoker to cook us up some Salmon for dinner, which was just fantastic.   

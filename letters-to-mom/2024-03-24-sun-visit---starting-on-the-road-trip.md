@@ -8,7 +8,6 @@ location:
   - 46.393936266675674
   - -116.79892018437744
 ---
-
 Hey Mom!  
 
 I hope that you are well!  Catherine and I have started our trip! After months (years?) of planning, we are on the way to Texas to see the eclipse!  This week for me was all about wrapping things up at work so that everything is covered while I am gone and then making sure that I didn't discover anything that would make me fret while I was gone since I'm not going to cancel my trip, and there will be nothing I can do about it.   But the big rocks are covered.  There may be some drama in certain corners of what I am involved in, but my being there would not impact any of that.

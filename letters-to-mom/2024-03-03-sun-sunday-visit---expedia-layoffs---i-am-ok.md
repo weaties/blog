@@ -9,7 +9,6 @@ location:
   - -122.38468104098048
 ---
 
-
 Good Evening!
 
 I hope things are well and you feel fit and happy.     Well, the big news this week was that our CEO, Peter Kern, sent out an email to everyone in the company on Monday, letting us know that we would be doing a round of layoffs to the tune of 1500 people worldwide. This 1500 is less than the number we laid off in 2020, but still a considerable number.   The Warn filing in Washington indicated that there were 208 folks. That was a shock. By the end of the day on Monday, the folks getting laid off had an invite to a meeting with their L3 leader. (our CEO is “L1,” and his directs are “L2,”’s, and the next level down are L3’s,etc.…) scheduled for Tuesday.   And then, on Wednesday, we started having team meetings.   And, of course, there are the back channels about who has been let go and who is still here.   I’m still here, but there are some key teams that I work with that were impacted, and some are moving around and being re-aligned, that I also work with. So, we are still trying to figure out what the impact of all of that will be in the long term.

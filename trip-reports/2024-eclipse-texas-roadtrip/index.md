@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 This is an index of all of the trip reports that I have created.  that is about it.
 
 ![CleanShot 2024-04-20 at 10.00.18@2x](../../attachments/CleanShot%202024-04-20%20at%2010.00.18@2x.png)

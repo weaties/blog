@@ -9,7 +9,6 @@ location:
   - -122.38489912594241
 ---
 
-
 Good Morning! Sunday, Feb 18, 2024
 
 I hope things are going well for you and your back is feeling better.   

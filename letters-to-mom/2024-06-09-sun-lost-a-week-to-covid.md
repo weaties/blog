@@ -5,7 +5,6 @@ date: 2024-06-09-Sun
 tags:
   - letter-to-mom
 ---
-
 Hey All,
 
 Not much to report this week.   I started feeling a bit peckish after everyone had gone home from soup night on Tuesday.  On Wednesday, I was feeling even more peckish, so I took a covid test, and it was positive.   So, the time since Wednesday has been a fog.  Since I went under on Wednesday, this is the first time I've been out of the bedroom for more than ten minutes (and there weren't those occasions).    

@@ -6,7 +6,6 @@ tags:
   - letter-to-mom
 ---
 
-
 Hey all!  
 
 I hope that this has been a good week for you!  For me, it was a nice short week.   

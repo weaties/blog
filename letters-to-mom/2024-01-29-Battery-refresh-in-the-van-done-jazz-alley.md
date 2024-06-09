@@ -4,7 +4,6 @@ title: Batter system refresh on the van - race car - Jazz Alley
 ---
 
 
-
 Good Morning! Monday, Jan 29th 2024
 
 Hey Mom! How are things?  

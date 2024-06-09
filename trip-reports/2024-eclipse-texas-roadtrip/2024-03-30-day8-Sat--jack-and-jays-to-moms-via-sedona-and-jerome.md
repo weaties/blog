@@ -8,7 +8,6 @@ location:
   - 33.682434827959014
   - -112.36489881931153
 ---
-
 Saturday, we woke up and spent a relatively slow morning with Jack and Jay, drinking coffee, shooting the breeze, and taking pictures of the dogs briefly before getting in the van and hitting the road.    Jack and Jay spend the weekend packing their place and moving into town.  The threat of impending snow could throw a monkey wrench into the works, so we wanted to stay within our welcome there.  
 
 We headed towards Highway 89a to head down to Phoenix via Sedona to hang out with Mom, Sue, Peter, and Sophie.  The drive was as spectacular as always.   We stopped in Sedona to grab breakfast and stretch our legs before heading towards Cottonwood and Jerome.  

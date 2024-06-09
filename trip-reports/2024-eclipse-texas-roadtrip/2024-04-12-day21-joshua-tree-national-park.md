@@ -8,7 +8,6 @@ location:
   - 35.102622410803846
   - -118.42728766492259
 ---
-
 Day 21 of our road trip - boy, are we glad we pushed through the night before and made it all the way to [Joshua Tree National Park](https://www.nps.gov/jotr/) so that in the morning, we didn't have to drive any meaningful distance to get to the park.   It was nice to be able to get up and have a relatively slow morning of fixing the coffee and writing my trip reports.
 
 We Headed into the Park just after 9:00 am.   We were coming into the park from the south, and on the entrance road, we came across a [desert tortoise](https://en.wikipedia.org/wiki/Desert_tortoise) trying to make its way across the road.  Well, if you have ever seen the cartoons about how fast Tortoises move, they are right. So we stopped, put on the hazards, and Catherine moved the tortoise off the road under the supervision of a park employee who just happened to be driving by.  (That woman was very excited about the interaction and had all sorts of advice and instructions on approaching and handling the wildlife).   Once our good deed for the day was done, we continued our drive through the park, stopping at the visitors center to stamp my National Park Passport and get some recommendations for what to see in the park.  

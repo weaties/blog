@@ -8,7 +8,6 @@ location:
   - 46.68467071894194
   - -117.1987132289667
 ---
-
 Well, Day One of this adventure is in the books! And so far so good!  The weather is working in our favor since we are enjoying ourselves, and with the gray clouds, every day from here on out has the opportunity to have better weather, that is for sure!   
 
 The first destination of this trip was over to Spokane to pay a visit to my Aunt Gloria, as well as Uncle Tom and Aunt Do.  

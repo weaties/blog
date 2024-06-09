@@ -8,7 +8,6 @@ location:
   - 29.33007799
   - -103.532596
 ---
-
 Day 12 sees us leaving the BLM campground that we stayed at and driving about 23 miles to Carlsbad Caverns National Park.   We had tickets for the 8:30 entrance, so we were out of the campsite before I even had a chance to make our coffee. Fortunately, we are pretty robust ;). Before we left, Catherine took a little tumble and skinned her knee pretty well.  It functions fine, but it is a little tender to the touch at the moment.
 
 At the Caverns, a sign declares that animals are not to be left in vehicles and must be kenneled.  So Catherine dropped Athena off at the kennels for $15.  Athena was not really all that pleased, but she survived.  We checked in, and were part of the first wave of tourists that went into the caves.   There are two ways to get to the [big room in the Carlsbad caverns](https://justgoexploring.com/destinations/carlsbad-caverns-big-room-the-most-amazing-cave/) part of the cave.  Walking down the natural entrance and through some elevators (the shafts were created in 1936 and expanded in the 50s, and the mechanisms were replaced in the 70s). We chose to walk down the 75 stories that it takes to get to the big room.  And I am glad that we did, as it really gave you a sense for how far down you are really going, and just how big the Caverns are.  But I am also glad that the elevators were there to get me out, as the trail was _very_ steep :) 

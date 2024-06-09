@@ -5,7 +5,6 @@ date: 2024-04-28-Sun
 tags:
   - letter-to-mom
 ---
-
 Good morning!  
 
 I have been back for a week and am almost back into the swing of things altogether.  I spent Monday getting through all of the Slack and email messages that had come my way while I was off, and by the end of the day, I had all of that behind me.   The long and the short of it is that while we were gone, there were some leadership announcements (which is to be expected with a CEO transition).  But all in all, things are still much the same as they were when we left ;) 

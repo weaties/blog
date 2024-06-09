@@ -9,7 +9,6 @@ location:
   - -111.69691522205503
 ---
 
-
 Yesterday was an absolutely brilliant day - we woke up in our campsite on the north side of the Colorado River to a glorious sunrise.   We made ourselves some coffee and then headed out. With the ultimate destination being Jack and Jays' place in Flagstaff.   
 
 On the way out, we went past Lee's ferry and checked things out there, taking a short walk around the area.  Knowing that little river carved the entire Grand Canyon was fantastic. From there, we continued on [Highway 89a towards the junction with Highway 89](https://en.wikipedia.org/wiki/Arizona_State_Route_89A)  . When we arrived at the junction of 89, we were concerned about having enough fuel to make it all the way to the next gas station along the route, so we decided to head into Page to fuel up.  I'm glad we did, as the vistas going towards Page and returning from Page are some of the most spectacular we have seen on this trip.  I remember back in 2005, when I was switching from Disney to Expedia, my Dad and I came down this road after we had hiked the Antelope Canyon, and that brought back some memories.

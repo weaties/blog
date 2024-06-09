@@ -9,7 +9,6 @@ location:
   - -122.3848663105556
 ---
 
-
 Good Morning! Welcome to the Month of May! - This is the month when I usually feel like I have made it through the winter, as all of the trees are busting out in green, the flowers are up, and there is daylight _before_ I get out of bed.   I love this time of year!
 
 This past week was pretty good.  Peter Kern, the CEO of Expedia for the last four years, had a Coffee with Peter session on Tuesday as he got ready to hand the reins of the place over to Arriane.  There wasn't a speech or a statement but more of a receiving line where folks could come up and shake his hand and say a few words.  So I did that.  I will say that Expedia would not have survived the pandemic without Peter at the helm.  We were able to survive the pandemic and completely re-invented the company, and I believe for the better.

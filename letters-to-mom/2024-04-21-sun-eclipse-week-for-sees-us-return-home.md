@@ -8,7 +8,6 @@ location:
   - 47.693777680422315
   - -122.3847298070246
 ---
-
 Well,  That's a wrap!  Catherine and I have returned home from our big adventures, and we both agree that the goals of this adventure have been met.
 
 1. See the eclipse - check - even though there were clouds
