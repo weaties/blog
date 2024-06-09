@@ -9,7 +9,6 @@ location:
   - -122.38481308006699
 ---
 
-
 Good Morning! Monday, Feb 12, 2024
 
   
