@@ -9,7 +9,6 @@ location:
   - -105.48391
 ---
 
-
 Well, it is time to start the journey home.  It is hard to believe that the trip is already half over. So far, everything, other than viewing the actual eclipse, has exceeded our expectations, and even that is ok.  The eclipse was just an excuse to see how well the van works for us and if it is something that we could reasonably expect to spend an extended period in (like on the scale of a year) as we tooled around the country.  And so far, it is.    We have plenty of space, and the facilities in the van are working great for us.   
 
 Yesterday, we cleaned up camp, made our coffee, hung out with Scott and Martha while we drank our coffee, and headed out of Ingram, TX.  The weather was way worse than Monday - with nothing but dark and overcast skies bearing down everywhere, and the whole drive was like that.   We headed in the general direction of [White Sands National Park](https://www.nps.gov/whsa/index.htm) but with no particular route chosen as we headed out.   We ended up making good progress.  We drove through torrential rain and hail (we thought the rig would get damaged by the hail, but it was just noisy).   We stopped in Roswell, NM, and visited the [Alien Museum](https://www.msn.com/en-us/travel/tripideas/10-of-the-most-unique-museums-in-the-united-states/ss-AA1kQtZV).    I'm now convinced that there are people that believe in Aliens.   The library there was the most impressive thing there. It was chock-a-block full of books and primary materials concerning the search for aliens on this planet.  
