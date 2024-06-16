@@ -38,6 +38,7 @@ here is what our stair well looked like in 2008
 Here we are in 2024 - after removing the wraper boards, in preparation for drywalling.
 
 ![IMG_0160](../attachments/IMG_0160.jpeg)
+
 Here, the beams have been drywalled, and we are ready to paint.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2PPkBWcJwao?si=2lZowHh4tQ69WWd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -49,10 +50,12 @@ here is a timelapse of me painting the stairwell on monday.
 And the Railings are installed.
 
 ![73994018869__EA6ADA38-9AAB-478A-83C2-92880ACB8275](../attachments/73994018869__EA6ADA38-9AAB-478A-83C2-92880ACB8275.jpeg)
+
 Looks good going downstairs as well.
 
 
 ![73994020055__E2364FBD-D683-4013-AB71-CAFD24FDDB37](../attachments/73994020055__E2364FBD-D683-4013-AB71-CAFD24FDDB37.jpeg)
+
 Another view of the new railing.
 
 ![IMG_0170](../attachments/IMG_0170.jpeg)
@@ -63,10 +66,12 @@ Installation crew :)
 
 
 ![IMG_3038](../attachments/IMG_3038.jpeg)
+
 This picture is from 2008 when we started this part of the project with alex doing some demo and prep work.
 
 
 ![IMG_3044](../attachments/IMG_3044.jpeg)
 
 ![IMG_5389](../attachments/IMG_5389.jpeg)
+
 another shot from 2008 with the posts incased in some wood.
