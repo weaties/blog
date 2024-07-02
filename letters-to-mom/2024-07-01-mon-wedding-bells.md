@@ -26,14 +26,24 @@ Katarina enjoying the evening.
 
 ![IMG_0291](../attachments/IMG_0291.png)
 
-Katarina's mom Sabine getting ready for the breaking of the dishes.  Which is a tradition in germany that is meant to scare away the poltergeists (I think I remembe)
+Katarina's mom, Sabine, is getting ready for the breaking of the dishes.  Which is a tradition in Germany that is meant to scare away the poltergeists (I think I remembered that right)
 
 ![IMG_0354](../attachments/IMG_0354.png)
 
+Onya and Katarina provided the music (Onya is Katarina and Alex's sister)
+
 ![IMG_0373](../attachments/IMG_0373.png)
+
+Greta marching in with her mom.
 
 ![IMG_0384](../attachments/IMG_0384.png)
 
+The ceremony. All of the groomsmen had fake beards for part of it. 
+
 ![IMG_0449](../attachments/IMG_0449.png)
 
+Another German tradition that I was introduced to was that the bride and groom saw a log to show their dedication to working through the challenges of being married.
+
 ![IMG_0548](../attachments/IMG_0548.png)
+
+Katarina and Sabine helping with Brunch at Bob and Gingers house
