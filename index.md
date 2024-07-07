@@ -13,6 +13,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-07-07-sun-fourth-of-july](./letters-to-mom/2024-07-07-sun-fourth-of-july.md)
 - [2024-07-01-mon-wedding-bells](./letters-to-mom/2024-07-01-mon-wedding-bells.md)
 - [2024-06-23-sun-feeling-much-better---perrins-graduation-party](./letters-to-mom/2024-06-23-sun-feeling-much-better---perrins-graduation-party.md)
 - [2024-06-16-sun-still-on-the-mend](./letters-to-mom/2024-06-16-sun-still-on-the-mend.md)
