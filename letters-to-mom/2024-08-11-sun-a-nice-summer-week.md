@@ -63,3 +63,20 @@ Me, Rodney, Grayson, Arav and Guru after sailing.
 ![IMG_4367](../attachments/IMG_4367.png)
 
 This is how Athena spends the days when Catherine is working from home ;) 
+
+![IMG_1573](../attachments/IMG_1573.png)
+
+Jay Jack and Alex on the Ferry
+
+![IMG_1578](../attachments/IMG_1578.png)
+
+Add Katarina and you have the full crew.
+
+![IMG_1587](../attachments/IMG_1587.png)
+
+Hiking into the campground
+
+![IMG_1620](../attachments/IMG_1620.png)
+
+The reports are that it was a wonderful camping trip all around.  :)
+
