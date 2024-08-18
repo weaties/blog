@@ -16,7 +16,8 @@ Love ya all
 Dan W
 
 
-Last night we had thunder storms roll though seattle - here is a timelapse video that I took of that -> https://youtu.be/F77f-T6rgI0
+Last night we had thunder storms roll though seattle - here is a timelapse video that I took of that -> [Thunderstorm timelapse](https://youtu.be/F77f-T6rgI0)
+
 
 ![IMG_1914](../attachments/IMG_1914.png)
 
