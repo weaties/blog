@@ -13,6 +13,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-09-22-sun-i-love-fall](./letters-to-mom/2024-09-22-sun-i-love-fall.md)
 - [2024-09-08-sun-short-week-and-2025-goal](./letters-to-mom/2024-09-08-sun-short-week-and-2025-goal.md)
 - [2024-09-02-mon-happy-labor-day](./letters-to-mom/2024-09-02-mon-happy-labor-day.md)
 - [2024-08-25-sun-architecture-team-visits-seattle](./letters-to-mom/2024-08-25-sun-architecture-team-visits-seattle.md)
