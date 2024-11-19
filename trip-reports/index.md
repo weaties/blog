@@ -7,3 +7,5 @@ This is a list of the trips that Catherine and I have taken - we are starting wi
 
 ![CleanShot 2024-04-20 at 10.00.18@2x](../attachments/CleanShot%202024-04-20%20at%2010.00.18@2x.png)
 
+## [2024 Road Trip to sonoma and flagstaff for racing and Thanksgiving](./2024-11-Sonoma-thanksgiving/index.md)
+
