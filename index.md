@@ -14,6 +14,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2024-12-08-sun-a-week-of-calm](./letters-to-mom/2024-12-08-sun-a-week-of-calm.md)
 - [2024-12-02-mon-happy-thanks-giving!](./letters-to-mom/2024-12-02-mon-happy-thanks-giving!.md)
 - [2024-11-10-sun-katarinas-house-bosses-new-and-old-three-musketeers](./letters-to-mom/2024-11-10-sun-katarinas-house-bosses-new-and-old-three-musketeers.md)
 - [2024-11-04-mon-slow-news-week-and-halloween](./letters-to-mom/2024-11-04-mon-slow-news-week-and-halloween.md)
