@@ -10,11 +10,10 @@ Good Morning.
 The following is a Note from Catherine, providing an update on the health of her Dad.
 
 
-```
+-------
   
 Dan asked me to write an update on my dad for you all. 
 
-  
 
 It’s been a whirlwind of a week. Last Sunday, Katarina and I went to my dad’s apartment to load up things for his upcoming move from Bayview to Landmark. When we arrived, we found him stuck on the floor in his bedroom. Katarina helped me get him up and seated on the edge of the bed. He said he was fine—just a little sore and embarrassed—we let him rest for a bit while we loaded up her car and I sent her on the way to work on her house.
 
@@ -35,7 +34,10 @@ Dad’s current situation is complex. He’s dealing with the effects of two lef
 He’s also kept his sense of humor. When asked by the hospitalist why he was in the hospital, he quipped that he’d been “swept up in a homeless encampment.” Later, when the neurologist introduced herself and mentioned that her brother is a civil engineer, Dad told her his favorite (and maybe only) joke: “There’s no such thing as a civil engineer.” When she asked why, he replied, “Because they’re all a little rude.” She laughed for the rest of the visit.
 
 We know this is the beginning of a long road, but we’re holding onto the moments of clarity, humor, and hope along the way.
-```
+
+-------
+
+
 
 Catherine is holding up well; she has a good support network, as well as Katarina, Alex, and me.   We will keep you all updated on Will's condition, and we appreciate your thoughts and prayers.
 
