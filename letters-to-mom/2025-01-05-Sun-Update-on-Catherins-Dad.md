@@ -33,7 +33,11 @@ Dad’s current situation is complex. He’s dealing with the effects of two lef
 
 He’s also kept his sense of humor. When asked by the hospitalist why he was in the hospital, he quipped that he’d been “swept up in a homeless encampment.” Later, when the neurologist introduced herself and mentioned that her brother is a civil engineer, Dad told her his favorite (and maybe only) joke: “There’s no such thing as a civil engineer.” When she asked why, he replied, “Because they’re all a little rude.” She laughed for the rest of the visit.
 
+Sunday morning Catherine arrived to find Will sitting up in a chair and happy to be there.   Still confused about some things - still very slurry speech; but progress
+
 We know this is the beginning of a long road, but we’re holding onto the moments of clarity, humor, and hope along the way.
+
+
 
 -------
 
