@@ -45,14 +45,17 @@ Below are the pictures that I had gathered for last week's post, which is now th
 
 
 ![IMG_4585](../attachments/IMG_4585.png)
+
 The monday before Christmas, I went down to Kyl's and we installed the new rear suspension on the van.
 
 
 ![IMG_4622](../attachments/IMG_4622.png)
+
 Christmas Eve we hosted Scott, Martha, Alex, Amber (ben's Wife), Alex's work buddy Ben, and Connor for Ham dinner.   Katarina was down with her Family in Vancouver.
 
 
 ![IMG_4629](../attachments/IMG_4629.png)
+
 Connor was looking sharp in his Christmas Blazer.
 
 ![IMG_4636](../attachments/IMG_4636.png)
@@ -60,6 +63,7 @@ Connor was looking sharp in his Christmas Blazer.
 For Christmas dinner, we invited Mark, Kat, Tom, Helen, Alex, Will, Martha, Connor and Scott over for a prime rib dinner.
 
 ![IMG_4637](../attachments/IMG_4637.png)
+
 Catherine, Athena, Kat and Blanca
 
 
@@ -88,6 +92,7 @@ Here is some of the folks that were at the house on Wednesday to make Baklava.  
 Assemling Bakalava
 
 ![IMG_4737](../attachments/IMG_4737.png)
+
 Playing cartographer late in the day.
 
 
@@ -100,4 +105,5 @@ Katarina's uncle Bob (on the right), and his father in Law Ralph, showed up to m
 As well as Katarina's cousin's Oscar and Sophie hanging out at the end of the day.
 
 ![IMG_4740](../attachments/IMG_4740.png)
+
 Some of the final product.
