@@ -14,6 +14,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2025-01-19-sun-first-week-of-retirement](./letters-to-mom/2025-01-19-sun-first-week-of-retirement.md)
 - [2025-01-12-sun-that-is-a-wrap---retired-after-36-years](./letters-to-mom/2025-01-12-sun-that-is-a-wrap---retired-after-36-years.md)
 - [2025-01-05-Sun-Update-on-Catherins-Dad](./letters-to-mom/2025-01-05-Sun-Update-on-Catherins-Dad.md)
 - [2024-12-22-sun-merry-christmas!](./letters-to-mom/2024-12-22-sun-merry-christmas!.md)
