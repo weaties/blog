@@ -7,6 +7,5 @@ This is a list of interim trip reports from the Trip to Washington DC that I am 
 - [index](index.md)
 
 
-
 [List of all Trip reports](../index.md)
 
