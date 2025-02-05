@@ -9,3 +9,6 @@ This is a list of the trips that Catherine and I have taken - we are starting wi
 
 ## [2024 Road Trip to sonoma and flagstaff for racing and Thanksgiving](./2024-11-Sonoma-thanksgiving/index.md)
 
+
+## [2025 - feb - Washington DC Trip with Brian](./2025-02-Washington-DC/index.md)
+
