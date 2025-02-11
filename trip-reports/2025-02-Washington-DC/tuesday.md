@@ -30,50 +30,101 @@ Dan W
 
 ![IMG_5182](../../attachments/IMG_5182.png)
 
+Me and Brian arriving in DC
+
+
 ![IMG_5184](../../attachments/IMG_5184.png)
+
+The Hotel Hive, in Foggy Bottom, where we are staying this week.
 
 ![IMG_5189](../../attachments/IMG_5189.png)
 
+Protestors outside of the Whitehouse were chanting "War Criminal".  There were quite a few protestors, and even more police.
+
 ![IMG_5194](../../attachments/IMG_5194.png)
+
+Washington Monument in the dark.
 
 ![IMG_5202](../../attachments/IMG_5202.png)
 
+Obligatory shot of the washington monument in the reflecting pool
+
 ![IMG_5203](../../attachments/IMG_5203.png)
+
+The Lincoln memorial at night.
 
 ![IMG_5207](../../attachments/IMG_5207.png)
 
+It is an impressive statue.
+
 ![IMG_5249](../../attachments/IMG_5249.png)
+
+The Smithsonian Castle - currently closed for renovation.
 
 ![IMG_5259](../../attachments/IMG_5259.png)
 
+There are a LOT of statues in DC.
+
 ![IMG_5268](../../attachments/IMG_5268.png)
+
+The original (well, 70% of it :) )  Wright Flyer.
 
 ![IMG_5280](../../attachments/IMG_5280.png)
 
+This is the suite that Neil Armstrong wore when he stepped onto the moon.
+
 ![IMG_5284](../../attachments/IMG_5284.png)
+
+The National Museum of the American Indian
 
 ![IMG_5285](../../attachments/IMG_5285.png)
 
+One of the Statues in the Mueseum
+
 ![IMG_5287](../../attachments/IMG_5287.png)
+
+The central space of the Museum as viewed from the fourth floor.
 
 ![IMG_5296](../../attachments/IMG_5296.png)
 
+The capital.
+
 ![IMG_5301](../../attachments/IMG_5301.png)
+
+Watching the first half of the super bowl.
 
 ![IMG_5304](../../attachments/IMG_5304.png)
 
+And the second half
+
 ![IMG_5311](../../attachments/IMG_5311.png)
+
+THis is the RARE Exception that we have found about wide well matintained sidewalks.
 
 ![IMG_5374](../../attachments/IMG_5374.png)
 
+These were part of the ceremony of changing the Wreath at the tomb of the unknown Soldier.
+
 ![IMG_5386](../../attachments/IMG_5386.png)
+
+Everyone that walks past the tomb salutes.
 
 ![IMG_5397](../../attachments/IMG_5397.png)
 
+The tomb from below.
+
 ![IMG_5406](../../attachments/IMG_5406.png)
+
+It's a big cemetary - so so so many gravestones.
 
 ![IMG_5412](../../attachments/IMG_5412.png)
 
+RBG
+
 ![IMG_5416](../../attachments/IMG_5416.png)
 
+The Airforce memoria.
+
 ![IMG_5428](../../attachments/IMG_5428.png)
+
+And more airforce memorial
