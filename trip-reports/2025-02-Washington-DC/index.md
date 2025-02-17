@@ -6,6 +6,7 @@ This is a list of interim trip reports from the Trip to Washington DC that I am 
 
 - [wednesday](./wednesday.md)
 - [tuesday](./tuesday.md)
+- [recap](./recap.md)
 - [index](index.md)
 
 
