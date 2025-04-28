@@ -14,6 +14,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2025-04-28-mon-working-on-boats-and-sailing](./letters-to-mom/2025-04-28-mon-working-on-boats-and-sailing.md)
 - [2025-04-13-sun-its-been-a-while---spokane-and-sailing](./letters-to-mom/2025-04-13-sun-its-been-a-while---spokane-and-sailing.md)
 - [2025-03-23-sun-st-paddy's-day-and-the-cherry-blossom-5k](./letters-to-mom/2025-03-23-sun-st-paddy's-day-and-the-cherry-blossom-5k.md)
 - [2025-03-17-mon-clamming-and-skiing](./letters-to-mom/2025-03-17-mon-clamming-and-skiing.md)
