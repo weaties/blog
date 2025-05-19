@@ -14,6 +14,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2025-05-19-mon-pnw-offshore---2025](./letters-to-mom/2025-05-19-mon-pnw-offshore---2025.md)
 - [2025-05-12-mon-preparing-for-northwest-offshore](./letters-to-mom/2025-05-12-mon-preparing-for-northwest-offshore.md)
 - [2025-04-28-mon-working-on-boats-and-sailing](./letters-to-mom/2025-04-28-mon-working-on-boats-and-sailing.md)
 - [2025-04-13-sun-its-been-a-while---spokane-and-sailing](./letters-to-mom/2025-04-13-sun-its-been-a-while---spokane-and-sailing.md)
