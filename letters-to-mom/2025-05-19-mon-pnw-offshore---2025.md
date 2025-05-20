@@ -147,7 +147,7 @@ Sunday was for goodbyes and reflection. We sorted our gear, swapped stories, and
   Love ya!
   Dan W
 
-  
+  PS - here is a [youtube video](https://youtu.be/sSkw_93ICvc) of the event as well.  
 
 ---
 
