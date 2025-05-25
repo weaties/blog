@@ -116,7 +116,8 @@ Me and my sister Sue
 The Phoenix Ballet stages one production a year at the Desert Botanical Gardens
 
 
-So that's about it for this weeks little writeup - Our flight leaves tomorrow afternoon for Bruge.  There is a book I need to read on the flight as a bit of homework for some of the stuff that Balin and Judy want to work through, and the sad thing is, is that I am the one that recommended the book to them ;) 
+That's about it for this week's little write-up - our flight leaves tomorrow afternoon for Bruges.  There is a book I need to read on the flight as a bit of homework for some of the stuff that Balin and Judy want to work through, and the sad thing is that I am the one who recommended the book to them ;) 
 
 Love ya All
 Dan W
+
