@@ -190,7 +190,7 @@ Through the arches of time — a quiet courtyard inside Bruges’ Sint-Janshospi
 Stumbled on this peaceful little stretch of canal—tucked away from the crowds, with ivy-covered walls and rooftops that look like they’ve been here forever. A perfect spot to slow down
 
 
-![Stumbled upon a surprise fair in Bruges tonight — lights flashing, rides spinning, and the smell of waffles in the air. Who knew a quiet evening walk would turn into a carnival adventure?](../../attachments/Stumbled%20upon%20a%20surprise%20fair%20in%20Bruges%20tonight%20%E2%80%94%20lights%20flashing,%20rides%20spinning,%20and%20the%20smell%20of%20waffles%20in%20the%20air.%20Who%20knew%20a%20quiet%20evening%20walk%20would%20turn%20into%20a%20carnival%20adventure?.png)
+![Stumbled upon a surprise fair in Bruges tonight — lights flashing, rides spinning, and the smell of waffles in the air. Who knew a quiet evening walk would turn into a carnival adventure](../../attachments/Stumbled%20upon%20a%20surprise%20fair%20in%20Bruges%20tonight%20%E2%80%94%20lights%20flashing,%20rides%20spinning,%20and%20the%20smell%20of%20waffles%20in%20the%20air.%20Who%20knew%20a%20quiet%20evening%20walk%20would%20turn%20into%20a%20carnival%20adventure.png)
 
 Stumbled upon a surprise fair in Bruges tonight — lights flashing, rides spinning, and the smell of waffles in the air. Who knew a quiet evening walk would turn into a carnival adventure?
 
@@ -205,7 +205,7 @@ Another shot of a canal along the walk.
 Evening light glowing through the arches of the Lover’s Bridge in Bruges—tranquility in every ripple.
 
 
-![Reflections of a fairy tale—Château Minnewater glowing golden at twilight..png](attachments/Reflections%20of%20a%20fairy%20tale%E2%80%94Cha%CC%82teau%20Minnewater%20glowing%20golden%20at%20twilight..png)
+![Reflections of a fairy tale—Chateau Minnewater glowing golden at twilight.](../../attachments/Reflections%20of%20a%20fairy%20tale%E2%80%94Chateau%20Minnewater%20glowing%20golden%20at%20twilight..png)
 
 Reflections of a fairy tale—Château Minnewater glowing golden at twilight.
 
