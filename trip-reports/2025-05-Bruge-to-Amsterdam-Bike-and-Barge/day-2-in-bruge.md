@@ -10,6 +10,25 @@ location:
 ---
 
 
+**Good morning from Bruges!**
+
+Yesterday was an absolutely gorgeous day here. It started bright and early at the Oslo airport, where we’d spent the night at the airport hotel—super convenient to just roll out of the room and right into the terminal. From there, it was a smooth hop over to Brussels, and then a fairly chill Uber ride into Bruges.
+
+Once we got checked into the hotel, I scouted out a lunch spot that turned out to be a winner—charming, cozy, and walkable. While we were there, Perrin popped in and surprised us, joining for the rest of the day. We swung back to the hotel so she could drop off her bag, and then the four of us hit the streets for an impromptu walking tour.
+
+We didn’t have a set itinerary, just wandered and soaked it all in. The Church of Our Lady was breathtaking—between the soaring altar, the hush of the space, and Michelangelo’s _Madonna and Child_, it really struck a chord. From there, we hopped on a canal boat and floated through this fairy-tale city. Honestly, every turn looked like it belonged on a postcard.
+
+Later in the afternoon, we met up with Judy and Balin, who had a bit of an adventure getting in from Paris (Judy managed to get separated from her phone _and_ her travel companion when she jumped back on the train to retrieve her Guitar, and it left with her still on it). We all grabbed dinner together at a touristy place that turned out better than expected—I went with the rabbit stew, which was surprisingly solid. I also got a flight of local beers because, well, when in Belgium…
+
+After dinner, I walked Sue and Mom most of the way back to the hotel, made sure they were on the right track, and then peeled off for a long solo wander. The city was magical at dusk—light fading, canals glowing, everything hushed and beautiful. I strolled until about 10:30, soaking up every quiet corner I could find.
+
+Today is the big Ascension Day procession, where they carry the vial that supposedly holds Christ’s blood through the streets. Should be fascinating to watch. Hoping to hit a couple more museums afterward and maybe finish walking the city’s perimeter.
+
+Here are the photos from the day. Some captions are mine, some courtesy of ChatGPT—pretty sure you’ll be able to tell which is which.
+
+Love you all—more tomorrow!
+
+—Dan
 
 
 
@@ -54,9 +73,6 @@ A study of what some of the walls used to look like inside of the church of our 
 Inside of the Church of our Lady
 
 
-![IMG_9424](../../attachments/IMG_9424.png)
-
-IMG_9424
 
 
 ![The alter inside of the Church of our Lady](../../attachments/The%20alter%20inside%20of%20the%20Church%20of%20our%20Lady.png)
