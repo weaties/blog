@@ -245,3 +245,7 @@ Modern lines meet medieval woods—the red footbridge crossing into another quie
 Mirror still and framed in green—this quiet Bruges canal feels like a secret kept by the trees.
 
 
+![Wednesday in bruge](../../attachments/Wednesday%20in%20bruge.jpg)
+
+[Link to Track](https://www.gaiagps.com/public/afNJyll4FrIrgLHLshQjWhTM/)
+
