@@ -14,6 +14,7 @@ These are the trip reports that I right every day - I don't send them anywhere b
 
 ## Letters to Mom
 These are the letters that I send to my mom, Aunts, and others on a regular basis to share what's up in my life.
+- [2025-07-06-sun-soltice-parade---beer-brewing---alex-moves-out---fourth-of-july](./letters-to-mom/2025-07-06-sun-soltice-parade---beer-brewing---alex-moves-out---fourth-of-july.md)
 - [2025-05-25-sun-on-the-way-to-bruge](./letters-to-mom/2025-05-25-sun-on-the-way-to-bruge.md)
 - [2025-05-19-mon-pnw-offshore---2025](./letters-to-mom/2025-05-19-mon-pnw-offshore---2025.md)
 - [2025-05-12-mon-preparing-for-northwest-offshore](./letters-to-mom/2025-05-12-mon-preparing-for-northwest-offshore.md)
