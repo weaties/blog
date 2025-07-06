@@ -8,8 +8,26 @@ tags:
 
 
 
+Hello!   and a happy lazy Sunday!  I hope this note finds everyone happy and healthy.  It's been a while since I've posted anything on this channel, sorry about that.
 
+Since I've gotten back from Bruges, life has settled into a reasonable pace.  Summer is finally here in the northwest, and things are starting to warm up a bit.   
 
+Will has moved into a new place and everyone is very comfortable with the situation there, so much so that Catherine was OK taking a week her Friend Kat,  my sister Sue and Natalie from across the street to participate in the [Big Fix in Omak](https://www.teamokanimalrescue.org/event-details-registration/big-fix-4-0-spay-neuter-clinic-2025-09-28-07-00)  where they spayed and Neutered over 1,000 animals.   They love doing this, and have already signed up for the event in September.   While Catherine was out doing that, I drove down to Redmond Oregon to attend the [PNW overland Expo](https://www.overlandexpo.com/pacific-northwest/) where I ran into my old friend Tim Tapping.   There was lots to see there, and I spent Saturday attending seminars, and I have evolved my thinking on how we want to continue to prepare Big Air for the trip in 27.   (and I got excited about getting some shorter trips in before that).  On the way home from the Expo, I stopped in the Portland area to spend the evening with my Friend Dan Tedrow (I did the PNW offshore race on his boat) and his two kids.  I also had the chance to meet his Dad, Paul, and his wife.
+
+Then this past week was a big week.  On Tuesday it was beer brewing day for the pig roast in August.  I brewed four batches of beer over the course of 16 hours.   Brian came over to help with the Brew Day, and as this was soup night I had plenty of help with the last batches of Beer.  Remy, Luck, Freya, Kira are all much more educated on the fact that beer is just yeast burbs and pee ;) 
+
+Thursday saw Alex move into a new apartment down by the Fremont Bridge.  He is now only an eight-minute walk from the rowing club, and a 16-minute bike ride from work, down on the south side of the Fremont bridge.   
+
+On Friday Olympic Manor held our annual Fourth of July Picnic, and we had a fantastic turnout in spite of the fact that we had to change the Venue this year because of the work that is being done to the fields at Soundview Park.  
+
+Yesterday Catherine and I rode our bikes down to Alex's place for lunch, before heading out to see "The Empire Strips Back" a Burlesque Parody of Star Wars universe.  It was quite an impressive show.
+
+This next weekend Alex and I are riding in the STP with some friends.  I have a new bike, but I am woefully unprepared for the event, I'm hoping that I can make it down there!   
+
+Then it will be time for race week!  Summer is hear, and it already feels like it is running away.
+
+Love you all!
+Dan W
 
 
   
