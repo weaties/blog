@@ -97,4 +97,4 @@ And we are back at Shilshole.  That was one of the best deliveries ever - 12 hou
 
 Corvo all powered up and headed to windward.
 
-https://www.youtube.com/watch?v=WCOPiLQZVZc
+[Short little youtube video of the event](https://www.youtube.com/watch?v=WCOPiLQZVZc)
